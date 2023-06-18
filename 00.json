@@ -48,6 +48,8 @@
 
 {"key":"新视觉","name":"视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
+{"key":"来米","name":"来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
+
 {"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
