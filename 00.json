@@ -40,6 +40,8 @@
 
 {"key":"轻简","name":"酷点┃4K","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/简简.json"},
 
+{"key": "书书","name": "酷点┃追剧","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/飞云.json"},
+
 {"key":"2bt","name":"酷点┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
 {"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
