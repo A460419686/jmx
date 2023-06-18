@@ -50,6 +50,8 @@
 
 {"key":"007","name":"超速┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/007影视.json"},
 
+{"key":"A8","name":"A8┃2K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/A8影视.json"},
+
 {"key":"城市电影","name":"城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
 
 {"key":"饭后","name":"酷点┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
