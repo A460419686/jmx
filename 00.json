@@ -32,8 +32,6 @@
 
 {"key":"爱迪","name":"酷点┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key": "PPY","name": "酷点┃追剧","type": 1,"api": "http://1.ahailove.cn:23450/api.php/provide/vod","playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-
 {"key":"王者","name":"酷点┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
 {"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
