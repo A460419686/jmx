@@ -7,10 +7,6 @@
 
 {"key":"爱迪","name":"酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key": "PPY","name": "酷玩┃追剧","type": 1,"api": "http://1.ahailove.cn:23450/api.php/provide/vod","playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-
-{"key":"多米","name":"酷玩┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
-
 {"key":"2bt","name":"酷玩┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
 {"key":"新视觉","name":"视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
@@ -22,6 +18,17 @@
 {"key":"饭后","name":"酷玩┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
 "playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧"]},
 
+{"key":"来米","name":"来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
+
+{"key":"莉莉娅","name":"莉娅┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/莉莉娅.js"},
+
+{"key":"轻简","name":"酷玩┃4K","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/简简.json"},
+
+{"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
+
+{"key":"A8","name":"A8┃2K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/A8影视.json"},
+
+{"key":"007","name":"超速┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/007影视.json"},
 
 {"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
@@ -51,6 +58,17 @@
 
 {"name": "解析4","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
+{"name":"解析5","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url="},
+
+{"name":"解析6","type":1,"url":"http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
+"header":{"User-Agent":"Dart/2.14 (dart:io)"}},
+
+{"name":"解析7","type":1,"url":"https://api.json.icu/api/?key=8e9d1d1f9588f8d173d75e16bbc1955c&url="},
+
+{"name":"解析8","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+
+{"name":"解析9","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2892346&key=aklmsyAGOQSTVWZ056&url="},
+
 {"name":"全能解析","type":0,"url":"https://jx.legendwhb.cn/llq/?url=","ext":{"flag":["qq","qiyi","mgtv","imgo","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
 
 {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
@@ -59,10 +77,17 @@
 
 {"name":"嗅探3","type":0,"url":"https://jx.sc1080.top/?url="},
 
-{"name":"嗅探4","type":0,"url":"https://jx.777jiexi.com/player/?url="}
+{"name":"嗅探4","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+
+{"name":"嗅探5","type":0,"url":"https://www.4kgod.vip/?url="},
+
+{"name":"嗅探6","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+
+{"name":"嗅探7","type":0,"url":"https://jx.xmflv.com/?url="}
 
 
 ],
+
 
 
 
