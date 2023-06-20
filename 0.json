@@ -8,7 +8,7 @@
 
 {
 
-"spider":"./jar/4.jar;md5;880a8ad1abacd9939403e66c28e8a1e9",
+"spider":"./jar/5.jar;md5;a682ace8b8e6e03e9c9451674e6701b7",
 
 "wallpaper":"https://tool.weetai.cn/api",
 
@@ -25,7 +25,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"酷点影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
@@ -34,13 +34,7 @@
 
 {"key":"王者","name":"酷点┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
-{"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
 {"key":"来看","name":"酷点┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
-
-{"key":"轻简","name":"酷点┃4K","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/简简.json"},
-
-{"key": "书书","name": "酷点┃追剧","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/飞云.json"},
 
 {"key":"2bt","name":"酷点┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
@@ -48,27 +42,26 @@
 
 {"key":"新视觉","name":"视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
-{"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
+{"key":"来米","name":"来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
 
-{"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
+{"key":"莉莉娅","name":"莉娅┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/莉莉娅.js"},
+
+{"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
 {"key":"007","name":"超速┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/007影视.json"},
 
-{"key":"A8","name":"A8┃2K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/A8影视.json"},
-
 {"key":"城市电影","name":"城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
-
-{"key":"饭后","name":"酷点┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
-"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧"]},
 
 {"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
 {"key":"快看","name":"酷点┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]},
 
+{"key":"双十","name":"双十┃影视","type":3,"api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/1010.js"},
+
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
-{"key":"速映","name":"速映┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速映.json"},
+{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/饭团.json"},
 
 {"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
@@ -85,8 +78,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 
 {"name":"VIP","type":0,"url":"https://play.8c4.cn/play/?url="},
-
-{"name":"VIP1","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
 
 {"name":"解析1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
