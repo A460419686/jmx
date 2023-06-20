@@ -34,11 +34,7 @@
 
 {"key":"王者","name":"酷点┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
-{"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
 {"key":"来看","name":"酷点┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
-
-{"key": "书书","name": "酷点┃追剧","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/飞云.json"},
 
 {"key":"2bt","name":"酷点┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
@@ -52,16 +48,9 @@
 
 {"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
-{"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
-
 {"key":"007","name":"超速┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/007影视.json"},
 
-{"key":"A8","name":"A8┃2K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/A8影视.json"},
-
 {"key":"城市电影","name":"城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
-
-{"key":"饭后","name":"酷点┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
-"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧"]},
 
 {"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
@@ -70,7 +59,7 @@
 
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
-{"key":"速映","name":"速映┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速映.json"},
+
 
 {"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
