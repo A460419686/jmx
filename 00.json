@@ -55,8 +55,6 @@
 
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
-{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/饭团.json"},
-
 {"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
 
