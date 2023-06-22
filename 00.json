@@ -44,6 +44,8 @@
 
 {"key":"007","name":"超速┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/007影视.json"},
 
+{"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
+
 {"key":"城市电影","name":"城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
 
 {"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
