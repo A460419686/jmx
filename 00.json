@@ -8,7 +8,7 @@
 
 {
 
-"spider":"./jar/6.jar;md5;d3e7e8d55eb79e4a356edcce8da29d2f",
+"spider":"./jar/5.jar;md5;a682ace8b8e6e03e9c9451674e6701b7",
 
 "wallpaper":"https://tool.weetai.cn/api",
 
@@ -26,6 +26,9 @@
 "sites":[
 
 {"key":"豆瓣","name":"农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+
+{"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
 {"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
