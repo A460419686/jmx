@@ -1,9 +1,9 @@
 {
- "spider": "./jar/yt.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
+ "spider": "http://app.lyyytv.cn/yt/yt.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
    
-      {"key": "csp_appys_影探","name": "酷玩TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://get.lfytyl.com/api.php/app/"}  
+{"key": "csp_appys_影探","name": "首页","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://big.lfytyl.com/api.php/app/"},
    
  ],  "parses": [    {      "name": "聚合1",      "type": 3,      "url": "Demo"    },    {      "name": "聚合0",      "type": 3,      "url": "Web"    },   
  
