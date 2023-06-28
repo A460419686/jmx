@@ -37,8 +37,6 @@
 
 {"key":"速看","name":"🌅速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/速看.json"},
 
-{"key":"csp_AppMr","name":"👻明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
-
 {"key":"77","name":"🔱酷云┃高清","type":3,"api":"csp_Kunyu77"},
 
 {"key":"007","name":"🍆超速┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/007影视.json"}
