@@ -38,7 +38,7 @@
 
 {"key":"官采","name":"👶聚合┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playerType":"1","playUrl":"https://jx.777jiexi.com/player/?url=","categories": ["国产剧","港台剧","欧美剧"]},
 
-{"key": "csp_appys_影探","name": "✈️影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
+{"key": "csp_appys_影探","name": "✈️影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://aabb.lfytyl.com/api.php/app/"},
 
 {"key":"如意","name":"😏如意┃TV","type":3,"playerType":"1","api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/如意.js"},
 
