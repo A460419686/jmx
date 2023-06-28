@@ -25,9 +25,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"聚合TV","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
-
-{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/tengxun.js"},
+{"key":"腾讯","name":"聚合TV","type":3,"api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/tengxun.js"},  
 
 {"key":"玩偶1","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
@@ -81,8 +79,6 @@
 {"name": "解析4","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
 {"name":"解析5","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
-
-{"name":"解析6","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
 {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
