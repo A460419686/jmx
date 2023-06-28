@@ -25,7 +25,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"首页","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"聚合TV","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/tengxun.js"},
 
