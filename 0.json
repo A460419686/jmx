@@ -25,43 +25,41 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"酷点影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"首页","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
-{"key":"腾讯","name":"腾讯┃视频","type":3,"api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/tengxun.js"},
+{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/tengxun.js"},
 
-{"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"玩偶1","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
-{"key":"爱迪","name":"酷点┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"爱迪","name":"💡聚合┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"米米","name":"酷玩┃蓝光","type":3,"api":"csp_XBPQ","ext":"https://gitee.com/xhkw/kuwan/raw/main/XBPQ/米米.json"},
+{"key":"米米","name":"🌽聚合┃蓝光","type":3,"api":"csp_XBPQ","ext":"https://gitee.com/xhkw/kuwan/raw/main/XBPQ/米米.json"},
 
-{"key":"电影港","name":"电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"https://xzam.cn/XYQH/电影港.json","jar":"https://xzam.cn/jar/xyq.jar"},
+{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"https://xzam.cn/XYQH/电影港.json","jar":"https://xzam.cn/jar/xyq.jar"},
 
-{"key":"官采","name":"酷点┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playerType":"1","playUrl":"https://jx.777jiexi.com/player/?url=","categories": ["国产剧","港台剧","欧美剧"]},
+{"key":"官采","name":"👶聚合┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playerType":"1","playUrl":"https://jx.777jiexi.com/player/?url=","categories": ["国产剧","港台剧","欧美剧"]},
 
-{"key": "csp_appys_影探","name": "影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
+{"key": "csp_appys_影探","name": "✈️影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
 
-{"key":"如意","name":"如意┃TV","type":3,"playerType":"1","api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/如意.js"},
+{"key":"如意","name":"😏如意┃TV","type":3,"playerType":"1","api":"https://xzam.cn/lib/drpy2.min.js","ext":"https://xzam.cn/js/如意.js"},
 
-{"key":"圣城","name":"酷玩┃专享","type":3,"api":"csp_XBPQ","ext":"https://gitee.com/xhkw/kuwan/raw/main/XBPQ/圣城.json"},
+{"key":"圣城","name":"🎃酷玩┃专享","type":3,"api":"csp_XBPQ","ext":"https://gitee.com/xhkw/kuwan/raw/main/XBPQ/圣城.json"},
 
-{"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
+{"key":"奇优","name":"🍄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
 
-{"key":"速看","name":"速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/速看.json"},
+{"key":"速看","name":"🌅速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/速看.json"},
 
-{"key": "奇优","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/奇优.json"},
+{"key":"csp_AppMr","name":"👻明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
 
-{"key":"csp_AppMr","name":"明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
+{"key":"007","name":"🍆超速┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/007影视.json"},
 
-{"key":"007","name":"超速┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/007影视.json"},
-
-{"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"玩偶","name":"⛲酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"https://xzam.cn/jar/pg.jar"},
 
-{"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
+{"key":"七夜","name":"😾七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
 
-{"key":"PanSearch","name":"阿里┃云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"}
+{"key":"PanSearch","name":"🐺阿里┃云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"}
 
 
 ],
