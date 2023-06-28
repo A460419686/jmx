@@ -3,7 +3,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
    
-{"key": "csp_appys_影探","name": "首页","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://liling.lfytyl.com/api.php/app/"}
+{"key": "csp_appys_影探","name": "首页","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"}
    
  ],  "parses": [    {      "name": "聚合1",      "type": 3,      "url": "Demo"    },    {      "name": "聚合0",      "type": 3,      "url": "Web"    },   
  
