@@ -35,6 +35,8 @@
 
 {"key": "yunyun","name": "️🐼飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://xhww.fun:63/小米/源/爱肥猫.json"},
 
+{"key": "小艺","name": "🌾酷玩┃解析","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://lg.tvcms.top/api.php/app/"},
+
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"https://xzam.cn/XYQH/电影港.json","jar":"https://xzam.cn/jar/xyq.jar"},
 
 {"key":"官采","name":"💮酷点┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playerType":"1","playUrl":"https://jx.777jiexi.com/player/?url=","categories": ["国产剧","港台剧","欧美剧"]},
@@ -63,6 +65,8 @@
 "parses": [ 
 
 {"name":"解析聚合","type":3,"url":"Demo"},
+
+{"name": "🌾酷玩专享","type": 1,"url": "https://xjx.tvcms.top/api/?key=86e9e99ae4e23391b0531a2489f57273&url=","flag": ["mmal","TD","TDB"],"header": {"User-Agent": "okhttp/3.12.11"}},
 
 {"name":"解析1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
