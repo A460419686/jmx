@@ -39,7 +39,7 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"https://xzam.cn/XYQH/电影港.json","jar":"https://xzam.cn/jar/xyq.jar"},
 
-{"key":"官采","name":"💮酷点┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playerType":"1","playUrl":"https://jx.777jiexi.com/player/?url=","categories": ["国产剧","港台剧","欧美剧"]},
+{"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url="},
 
 {"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
 
