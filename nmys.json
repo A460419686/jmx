@@ -49,6 +49,8 @@
 
 {"key":"奇优","name":"🍄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
 
+{"key":"一龙","name":"🐉一龙┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+
 {"key":"速看","name":"🕊️速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/速看.json"},
 
 {"key":"csp_AppMr","name":"🔱明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fan.jar"},
