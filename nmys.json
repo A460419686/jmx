@@ -45,11 +45,11 @@
 
 {"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
 
-{"key":"南柯","name":"🏂酷玩┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/南柯电影.json"},
-
-{"key":"奇优","name":"🍄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
+{"key":"007","name":"🍆07┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/007影视.json"},
 
 {"key":"一龙","name":"🐉一龙┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+
+{"key":"奇优","name":"🍄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
 
 {"key":"速看","name":"🕊️速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/速看.json"},
 
@@ -60,6 +60,8 @@
 {"key":"139","name":"⌛139┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/139.json"},
 
 {"key":"来米","name":"🍿来米┃影视","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/来米影视.js"},
+
+{"key":"南柯","name":"🏂酷玩┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/南柯电影.json"},
 
 {"key":"PanSearch","name":"🦊阿里┃4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"}
 
