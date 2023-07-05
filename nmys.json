@@ -45,6 +45,8 @@
 
 {"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
 
+{"key":"南柯","name":"🏂酷玩┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/南柯电影.json"},
+
 {"key":"奇优","name":"🍄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/奇优.json"},
 
 {"key":"速看","name":"🕊️速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/速看.json"},
