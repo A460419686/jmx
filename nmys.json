@@ -35,7 +35,7 @@
 
 {"key": "yunyun","name": "️🐼飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://xhww.fun:63/小米/源/爱肥猫.json"},
 
-{"key": "csp_XYQHikerAL_玩偶哥哥","name":"酷玩蓝光","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+{"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
 {"key": "小艺","name": "🌾小艺┃解析","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://lg.tvcms.top/api.php/app/"},
 
