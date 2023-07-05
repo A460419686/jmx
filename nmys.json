@@ -53,8 +53,6 @@
 
 {"key":"速看","name":"🕊️速看┃TV","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/速看.json"},
 
-{"key":"csp_AppMr","name":"🔱明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fan.jar"},
-
 {"key":"139","name":"⌛139┃影视","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/139.json"},
 
 {"key":"drpy_js_酷客影院","name":"😎酷客┃影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"},
