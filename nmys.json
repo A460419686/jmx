@@ -37,6 +37,8 @@
 
 {"key": "yunyun","name": "️🍩飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XBPQ/爱肥猫.json"},
 
+{"key": "小艺","name": "🗯️玩偶┃解析","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://lg.tvcms.top/api.php/app/"},
+
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url="},
