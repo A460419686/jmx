@@ -47,7 +47,7 @@
 
 {"key": "一龙","name": "🐉一龙┃影视","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/一龙.json"},
 
-{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/libs/drpy2.min.js","ext":"./lib/libs/345看片.js"},
+{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/libs/drpy2.min.js","ext":"./js/345看片.js"},
 
 {"key":"drpy_js_139影视","name":"🏵酷玩┃秒播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"},
 
