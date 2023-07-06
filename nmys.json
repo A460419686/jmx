@@ -35,7 +35,7 @@
 
 {"key":"爱迪","name":"💡酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
-{"key": "yunyun","name": "️🐼飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XBPQ/爱肥猫.json"},
+{"key": "yunyun","name": "️🍩飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XBPQ/爱肥猫.json"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
@@ -52,6 +52,8 @@
 {"key": "007","name": "🍆酷玩┃超速","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/007影视.json"},
 
 {"key":"139","name":"⌛139┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/139.json"},
+
+ {"key": "猫猫","name": "🐼熊猫┃蓝光","type": 3,"api": "csp_XBPQ","playerType": 1,"ext": "https://download.kstore.space/download/4180/XBPQ/猫猫.json"},
 
 {"key":"来米","name":"🍿来米┃影视","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/来米影视.js"},
 
