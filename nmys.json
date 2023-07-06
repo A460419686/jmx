@@ -35,7 +35,7 @@
 
 {"key":"爱迪","name":"💡酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
-{"key": "yunyun","name": "️🐼飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://xhww.fun:63/小米/源/爱肥猫.json"},
+{"key": "yunyun","name": "️🐼飞云┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XBPQ/爱肥猫.json"},
 
 {"key": "小艺","name": "🌾小艺┃解析","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://lg.tvcms.top/api.php/app/"},
 
