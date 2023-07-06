@@ -53,8 +53,6 @@
 
 {"key":"139","name":"⌛139┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/139.json"},
 
- {"key": "猫猫","name": "🐼熊猫┃蓝光","type": 3,"api": "csp_XBPQ","playerType": 1,"ext": "https://download.kstore.space/download/4180/XBPQ/猫猫.json"},
-
 {"key":"来米","name":"🍿来米┃影视","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/来米影视.js"},
 
 {"key":"南柯","name":"🏂酷玩┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/南柯电影.json"},
