@@ -25,7 +25,7 @@
 
 {"key":"豆瓣","name":"💖农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
-{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/tengxun.js"},
+{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
 {"key":"玩偶1","name":"👽玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
