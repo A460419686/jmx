@@ -43,7 +43,7 @@
 
 {"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url="},
 
-{"key":"奇优","name":"⛄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/奇优.json"},
+{"key":"奇优","name":"⛄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
 {"key": "一龙","name": "🐉一龙┃影视","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/一龙.json"},
 
