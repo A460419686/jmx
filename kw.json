@@ -29,8 +29,6 @@
 
 {"key":"玩偶1","name":"👽玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
-{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
-
 {"key": "csp_WoGG","name": "酷玩┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
 
 {"key":"爱迪","name":"💡酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
@@ -59,7 +57,9 @@
 
 {"key":"139","name":"⌛139┃影视","type":3,"api":"csp_XBPQ","ext":"https://xzam.cn/XBPQ/139.json"},
 
-{"key":"来米","name":"🍿来米┃影视","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/来米影视.js"},
+{"key":"来米","name":"🍿来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
+
+{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
 
 {"key":"PanSearch","name":"🦊阿里┃4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"}
 
