@@ -39,7 +39,7 @@
 
 {"key":"奇优","name":"⛄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
-{"key": "一龙","name": "🐉一龙┃影视","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/一龙.json"},
+{"key": "csp_appys_影探","name": "❤影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ytcms.lfytyl.com/api.php/app/"},
 
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"},
 
