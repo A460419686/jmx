@@ -35,7 +35,7 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.xmflv.com/?url="},
+{"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.zhanlangbu.com/?url="},
 
 {"key":"奇优","name":"⛄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
