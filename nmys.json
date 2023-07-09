@@ -49,6 +49,8 @@
 
 {"key":"来米","name":"🍿来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
 
+{"key": "csp_dmxq","name": "🌾大米影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},    
+
 {"key":"厂长","name":"🍭厂长┃影视","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
 
 {"key":"新视觉","name":"👁️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
