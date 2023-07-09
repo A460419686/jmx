@@ -35,13 +35,11 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.zhanlangbu.com/?url="},
+{"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.xmflv.com/?url="},
 
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"},
 
 {"key": "007","name": "🍆酷玩┃超速","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/007影视.json"},
-
-{"key":"搜狗","name":"🐶搜狗┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
 
 {"key":"蘑菇","name":"🍄蘑菇┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/蘑菇影视.json"},
 
@@ -64,23 +62,11 @@
 
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "💖VIP","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
+{"name": "💖VIP","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name":"💖VIP1","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"💖VIP1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name": "💖VIP2","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-{"name":"💖VIP3","type":0,"url":"https://jiexi.555jiexi.net:555/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-{"name":"💖VIP4","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"💖VIP5","type":0,"url":"http://api.wpsseo.cn/?v=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"💖VIP6","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"💖VIP7","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"💖VIP8","type":0,"url":"https://jx.xmflv.com/?url="}
+{"name":"💖VIP2","type":0,"url":"https://jx.xmflv.com/?url="}
 
 ],
 
