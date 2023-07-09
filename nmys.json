@@ -68,7 +68,9 @@
 
 {"name": "💖VIP","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name": "💖VIP1","type": 0,"url": "https://jx.m3u8.pw/?url="}
+{"name": "💖VIP1","type": 0,"url": "https://jx.m3u8.pw/?url="},
+
+{"name":"💖VIP2","type":0,"url":"https://jiexi.555jiexi.net:555/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}}
 
 ],
 
