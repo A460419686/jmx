@@ -57,6 +57,8 @@
 
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
 
+{"key":"Gitcafe","name":"🍼阿里┃纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|fhd|auto","jar":"./jar/xyq.jar"},
+
 {"key":"PanSearch","name":"🦊阿里┃4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"}
 
 
