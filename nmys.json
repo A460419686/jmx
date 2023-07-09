@@ -23,7 +23,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"💖农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key": "js豆瓣","name": "💖农民影视","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"},  
 
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
