@@ -37,8 +37,6 @@
 
 {"key":"官方资源","name":"⭕酷玩┃官采","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.zhanlangbu.com/?url="},
 
-{"key":"奇优","name":"⛄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
-
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"},
 
 {"key":"drpy_js_139影视","name":"🏵酷玩┃秒播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"},
