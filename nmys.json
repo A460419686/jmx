@@ -43,6 +43,8 @@
 
 {"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
 
+{"key":"全民影视","name":"✊全民┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/全民影视.json"},
+
 {"key": "007","name": "🍆酷玩┃超速","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/007影视.json"},
 
 {"key":"Freeok","name":"🏝️酷玩┃TV","type":3,"api":"csp_XBPQ","ext":"./XBPQ/freeok.json"},
