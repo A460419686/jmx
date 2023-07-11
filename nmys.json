@@ -41,6 +41,8 @@
 
 {"key":"猫猫","name":"🍚米米┃蓝光","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./XBPQ/米米.json"},
 
+{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
+
 {"key": "007","name": "🍆酷玩┃超速","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/007影视.json"},
 
 {"key":"Freeok","name":"🏝️酷玩┃TV","type":3,"api":"csp_XBPQ","ext":"./XBPQ/freeok.json"},
