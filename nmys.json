@@ -35,7 +35,7 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"},
+{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
 {"key":"猫猫","name":"🍚酷玩┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./XBPQ/米米.json"},
 
