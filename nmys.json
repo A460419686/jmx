@@ -23,7 +23,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "💖农民┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js"}, 
+{"key": "豆瓣","name": "💖农民┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}, 
 
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
