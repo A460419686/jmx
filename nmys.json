@@ -61,7 +61,9 @@
 
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
 
-{"key":"PanSearch","name":"🦊阿里┃4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"}
+{"key":"PanSearch","name":"🦊阿里┃4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
+
+{"key": "Zhaozy","name": "🎊阿里┃云盘","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$fanfan$$$qqq111"}
 
 
 ],
