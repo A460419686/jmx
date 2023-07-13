@@ -41,6 +41,8 @@
 
 {"key":"官方资源","name":"⭕官方┃资源","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url="},
 
+{"key":"drpy_js_酷客影院","name":"🎤酷客┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
+
 {"key":"饭团","name":"🍙酷玩┃TV","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
 
 {"key":"全民影视","name":"✊酷玩┃TV","type":3,"api":"csp_XBPQ","ext":"./XBPQ/全民影视.json"},
