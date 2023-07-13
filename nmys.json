@@ -33,6 +33,8 @@
 
 {"key":"爱迪","name":"💡酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
+{"key": "csp_appys_影探","name": "❤影探主接口|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
+
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
