@@ -57,7 +57,7 @@
 
 {"key": "虎虎","name": "🐯虎子┃TV","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/虎虎.json"},
 
-{"key":"来米","name":"🍿来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
+{"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/来米.json"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
