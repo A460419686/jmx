@@ -45,6 +45,8 @@
 
 {"key":"阿猫","name":"🐈酷玩┃TV","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/阿猫.js"},
 
+{"key": "csp_厂长","name": "🍎小苹果┃主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/厂长影视.json"},
+
 {"key":"csp_圣城","name":"☦️酷玩┃专享","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城.json"},
 
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
