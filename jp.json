@@ -23,7 +23,7 @@
 
 "sites":[
 
-{"key":"荐片","name":"荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"}
+{"key":"荐片","name":"ρ荐片播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"}
 
 
 ],
