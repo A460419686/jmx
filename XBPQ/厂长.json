@@ -56,10 +56,10 @@
     
     "分类url":"https://czzy.fun/{cateId}/{class}/{area}/page/{catePg};;m0",
     
-    "分类":"全部&电影&国产剧&电视剧&动画&纪录片",
+    "分类":"电影&国产剧&电视剧&动画&纪录片",
     
-    "分类值":"movie_bt&movie_bt_series/dyy&movie_bt_series/guochanju&movie_bt_series/dianshiju&movie_bt_series/dohua&movie_bt_series/rj&movie_bt_series/hj&movie_bt/movie_bt_tags/jlpp",
-
+    "分类值":"movie_bt_series/dyy&movie_bt_series/guochanju&movie_bt_series/dianshiju&movie_bt_series/dohua&movie_bt_series/rj&movie_bt_series/hj&movie_bt/movie_bt_tags/jlpp",
+    
     "筛选":{
     "movie_bt":[
     {"key":"area","name":"分类","value":[
