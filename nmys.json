@@ -65,7 +65,7 @@
 
 {"key":"厂长","name":"🍭厂长┃影视","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
 
-{"key":"酷酷","name":"💡酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
+{"key":"酷酷","name":"💡酷影┃TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
 
 {"key":"新视觉","name":"👁️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
