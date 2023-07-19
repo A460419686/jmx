@@ -35,7 +35,7 @@
 
 {"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 
-{"key":"JOJO","name":"🐬小盒┃酷玩","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"},
+{"key":"JOJO","name":"🎯小盒┃酷玩","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
