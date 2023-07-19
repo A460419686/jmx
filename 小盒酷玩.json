@@ -1,0 +1,216 @@
+//全部数据来自网络和各大佬资源整合
+//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
+//QQ频道：小盒酷玩    
+//公众号：小盒酷玩
+//QQ交流群：817925554
+
+{
+
+//提示（下方提示适用于影视仓，TVBox不提示）
+
+"warningText":"小盒酷玩提醒：接口免费，切勿付费",    
+
+//下方是一些数据接口
+
+"sites":[
+
+{"key": "豆瓣","name": "🎯小盒酷玩┃Q群817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
+{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
+
+{"key":"csp_345","name":"👁酷玩┃看片","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看片.json"},
+
+//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
+//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
+
+{"key":"玩偶1","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt|fhd|auto $$$https://wogg.xyz/"},
+
+{"key":"蘑菇","name":"🍄️蘑菇┃APP","type":3,"api":"csp_AppYsV2","playerType":1,"ext":"https://www.gvideo.me/api.php/app/"},
+
+{"key":"猫猫","name":"🍚米米┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/米米.json"},
+
+{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
+
+{"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
+
+{"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
+
+{"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
+
+{"key":"看看剧","name":"🎅看看┃影视","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/看看.json"},
+
+{"key":"csp_圣城","name":"🏪圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城.json"},
+
+{"key": "csp_速映","name": "💾速映┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/映速.json"},
+
+{"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
+
+
+
+
+{"key":"全民影视","name":"✊全民┃影视","type":3,"api":"csp_XBPQ","ext":"./json/全民影视.json"},
+
+{"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
+
+{"key": "虎虎","name": "🐯虎虎┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
+
+{"key": "csp_爱看","name": "🙆爱看┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱看.json"},
+
+{"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
+
+{"key":"新视觉","name":"👁️新视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./json/新视觉.json"},
+
+{"key": "YQK_spider","name": "👀一起看┃APP","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://hk-api-cf.yqk5659.com"},
+
+{"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
+
+{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
+
+{"key":"drpy_js_酷客影院","name":"🎤酷客┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
+
+{"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
+
+{"key":"官方资源","name":"⭕官方┃资源","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.m3u8.pw/?url="},
+
+{"key":"酷酷","name":"💡酷影┃TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
+
+{"key": "csp_dmxq","name": "🌾大米┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大米星球.json"}, 
+
+{"key": "csp_WoGG","name":"💢玩偶┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
+
+//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
+//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
+
+{"key":"七夜","name":"😾七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt|fhd|auto"},
+
+//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
+//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
+
+{"key":"PanSearch","name":"🦊PanSearch┃云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt|fhd|auto"},
+
+//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
+//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
+
+{"key":"PanSou","name":"🔍盘搜┃云盘","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt|fhd|auto"},
+
+{"key":"xh","name":"💖公众号","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+{"key":"xh1","name":"💖小盒酷玩","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+
+//结尾（注：可以看一下上方每一条线路结尾处都有一个,这个,号的意思就是下一条的意思，结尾最后一条不要加,加了就会获取失败）
+
+
+//下方结尾处的],就是对应上方数据接口"sites":[，的
+
+],
+
+//下方为解析接口，主要用于腾讯，360，爱奇艺，优酷等这样的官方资源解析
+
+"parses": [ 
+
+{"name":"解析聚合","type":3,"url":"Demo"},
+
+{"name": "解析1","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name": "解析2","type": 0,"url": "https://jx.m3u8.pw/?url="},
+
+{"name":"解析3","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+
+{"name":"解析4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+
+{"name":"解析5","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}}
+
+//可以自己定期检查一下这些解析接口，如果有失效的可以去网络大佬接口那里替换/同样也要注意解析接口后方的，也是最后一条不加
+
+],
+
+
+"flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
+
+//jar包
+
+"spider":"./jar/xhkw.jar;md5;17716ef91fa4f4758d15d4c5620dab31",
+
+//软件里面切换的壁纸/可以吧引号里面的换成自己的图片直链，图片是1920x1080像素
+
+"wallpaper":"https://tool.weetai.cn/api",
+
+//直播，下方URL直播txt文档可以换成你们自己的直播源
+
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],   
+
+//下方的直接复制粘贴到你们自己的接口就好
+
+"rules": [
+{"host": "*","rule": ["default.365yg.com"]},
+{"host": "dyxs20.com","rule": [".m3u8"]},
+{"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
+{"host": "www.sharenice.net","rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
+{"host": "www.sharenice.net","rule": ["qianpailive.com","vid="]},
+{"host": "*","rule": ["douyin.com/aweme","video_id="]},
+{"host": "*","rule": ["huoshan.com","/item/video/"]},
+{"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+{"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
+
+//软硬解码
+"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+
+"doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+
+"ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ]
+}
+
