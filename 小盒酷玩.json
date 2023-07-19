@@ -6,11 +6,8 @@
 
 {
 
-//提示（下方提示适用于影视仓，TVBox不提示）
-
 "warningText":"小盒酷玩提醒：接口免费，切勿付费",    
 
-//下方是一些数据接口
 
 "sites":[
 
@@ -19,9 +16,6 @@
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
 {"key":"csp_345","name":"👁酷玩┃看片","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看片.json"},
-
-//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
-//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
 
 {"key":"玩偶1","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt|fhd|auto $$$https://wogg.xyz/"},
 
@@ -44,9 +38,6 @@
 {"key": "csp_速映","name": "💾速映┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/映速.json"},
 
 {"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
-
-
-
 
 {"key":"全民影视","name":"✊全民┃影视","type":3,"api":"csp_XBPQ","ext":"./json/全民影视.json"},
 
@@ -78,18 +69,9 @@
 
 {"key": "csp_WoGG","name":"💢玩偶┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
 
-//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
-//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
-
 {"key":"七夜","name":"😾七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt|fhd|auto"},
 
-//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
-//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
-
 {"key":"PanSearch","name":"🦊PanSearch┃云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt|fhd|auto"},
-
-//tvbox/tok.txt这里面上传你自己的阿里云盘token/嫌麻烦不想自己弄接口的直接用阿里云盘扫码看吧！
-//如何获取自己的阿里token网上都有教程，可以用TVbox助手一键获取！
 
 {"key":"PanSou","name":"🔍盘搜┃云盘","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt|fhd|auto"},
 
@@ -97,14 +79,8 @@
 
 {"key":"xh1","name":"💖小盒酷玩","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
-//结尾（注：可以看一下上方每一条线路结尾处都有一个,这个,号的意思就是下一条的意思，结尾最后一条不要加,加了就会获取失败）
-
-
-//下方结尾处的],就是对应上方数据接口"sites":[，的
-
 ],
 
-//下方为解析接口，主要用于腾讯，360，爱奇艺，优酷等这样的官方资源解析
 
 "parses": [ 
 
@@ -120,22 +96,17 @@
 
 {"name":"解析5","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}}
 
-//可以自己定期检查一下这些解析接口，如果有失效的可以去网络大佬接口那里替换/同样也要注意解析接口后方的，也是最后一条不加
-
 ],
 
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
-//jar包
 
 "spider":"./jar/xhkw.jar;md5;17716ef91fa4f4758d15d4c5620dab31",
 
-//软件里面切换的壁纸/可以吧引号里面的换成自己的图片直链，图片是1920x1080像素
 
 "wallpaper":"https://tool.weetai.cn/api",
 
-//直播，下方URL直播txt文档可以换成你们自己的直播源
 
 "lives": [{
 		    "name": "live",
@@ -144,8 +115,6 @@
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
-
-//下方的直接复制粘贴到你们自己的接口就好
 
 "rules": [
 {"host": "*","rule": ["default.365yg.com"]},
@@ -158,7 +127,6 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 
-//软硬解码
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
 "doh": [
