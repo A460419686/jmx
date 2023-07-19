@@ -29,7 +29,7 @@
 
 {"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
-{"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
+{"key":"小蚂蚁","name":"🍎主力源","type":3,"playerType":1,"api":"csp_XBPQ","ext":"./json/小蚂蚁.json"},
 
 {"key":"看看剧","name":"🎅看看┃影视","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/看看.json"},
 
