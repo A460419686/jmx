@@ -33,8 +33,6 @@
 
 {"key":"csp_圣城","name":"🏪圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城.json"},
 
-{"key": "csp_速映","name": "💾速映┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/映速.json"},
-
 {"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 
 {"key":"全民影视","name":"✊全民┃影视","type":3,"api":"csp_XBPQ","ext":"./json/全民影视.json"},
