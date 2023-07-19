@@ -49,6 +49,8 @@
 
 {"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
 
+{"key": "csp_Free","name": "🏝️Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Free.json"},
+
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"drpy_js_酷客影院","name":"🎤酷客┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
