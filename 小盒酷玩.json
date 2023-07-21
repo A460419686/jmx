@@ -13,6 +13,8 @@
 
 {"key": "豆瓣","name": "🎯小盒酷玩┃Q群817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+{"key":"阿里资源","name":"🌼酷玩┃2K","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url="},
+
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
 {"key":"csp_345","name":"👁酷玩┃看片","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看片.json"},
@@ -26,10 +28,6 @@
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
 
 {"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
-
-{"key":"小蚂蚁","name":"🍎主力源","type":3,"playerType":1,"api":"csp_XBPQ","ext":"./json/小蚂蚁.json"},
-
-{"key":"阿里资源","name":"🍄阿里┃2K","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url="},
 
 {"key":"看看剧","name":"🎅看看┃影视","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/看看.json"},
 
