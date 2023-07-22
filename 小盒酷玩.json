@@ -35,16 +35,6 @@
 
 {"key": "csp_Free","name": "🏝️Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
-{
-      "key": "csp_appys_影探",
-      "name": "测试┃猫猫4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/"
-    },
 
 {"key":"新视觉","name":"👁️新视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./json/新视觉.json"},
 
