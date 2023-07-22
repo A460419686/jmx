@@ -21,8 +21,6 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
-
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
 
 {"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
@@ -70,6 +68,8 @@
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key": "csp_dmxq","name": "🌾大米┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大米星球.json"}, 
+
+{"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
 {"key": "csp_WoGG","name":"💢玩偶┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
 
