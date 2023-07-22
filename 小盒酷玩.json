@@ -23,8 +23,6 @@
 
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
 
-{"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
-
 {"key":"csp_圣城","name":"🏪圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城.json"},
 
 {"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
@@ -68,6 +66,8 @@
 {"key": "csp_dmxq","name": "🌾大米┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大米星球.json"}, 
 
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
+
+{"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
 {"key":"看看剧","name":"🎅看看┃影视","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/看看.json"},
 
