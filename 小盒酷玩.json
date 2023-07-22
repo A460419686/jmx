@@ -27,6 +27,8 @@
 
 {"key": "虎虎","name": "🐯虎虎┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
+{"key":"JOJO","name":"🎯小盒┃酷玩","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"},
+
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key": "csp_爱看","name": "🙆爱看┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱看.json"},
@@ -72,8 +74,6 @@
 {"key":"猫猫","name":"🍚米米┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/米米.json"},
 
 {"key":"csp_圣城","name":"🏪圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城.json"},
-
-{"key":"JOJO","name":"🎯小盒┃酷玩","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"},
 
 {"key": "csp_WoGG","name":"💢玩偶┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
 
