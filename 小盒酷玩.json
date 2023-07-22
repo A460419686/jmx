@@ -21,7 +21,7 @@
 
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
 
-{"key":"素白白","name":"🥚素白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
+{"key":"素白白","name":"🥚素白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./json/白白.json"},
 
 {"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 
