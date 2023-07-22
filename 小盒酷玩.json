@@ -23,8 +23,6 @@
 
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
 
-{"key":"csp_圣城","name":"🏪圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城.json"},
-
 {"key": "csp_北川","name": "🐾北川┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
@@ -36,8 +34,6 @@
 {"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
 
 {"key":"新视觉","name":"👁️新视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./json/新视觉.json"},
-
-{"key":"猫猫","name":"🍚米米┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/米米.json"},
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
 
@@ -68,6 +64,10 @@
 {"key": "csp_789","name": "🎸789┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
 {"key":"看看剧","name":"🎅看看┃影视","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/看看.json"},
+
+{"key":"猫猫","name":"🍚米米┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/米米.json"},
+
+{"key":"csp_圣城","name":"🏪圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城.json"},
 
 {"key":"JOJO","name":"🎯小盒┃酷玩","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"},
 
