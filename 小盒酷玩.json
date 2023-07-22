@@ -39,6 +39,10 @@
 
 {"key":"hd魔力","name":"🎲魔力┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/hd魔力.js"},
 
+{"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
+
+{"key": "csp_dmxq","name": "🌾大米┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大米星球.json"}, 
+
 {"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
 
 {"key": "csp_农民","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民.json"},
@@ -52,10 +56,6 @@
 {"key":"官方资源","name":"⭕官方┃资源","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","playUrl":"https://jx.m3u8.pw/?url="},
 
 {"key":"酷酷","name":"💡酷影┃TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
-
-{"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
-
-{"key": "csp_dmxq","name": "🌾大米┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大米星球.json"}, 
 
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
