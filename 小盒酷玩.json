@@ -35,6 +35,7 @@
 
 {"key": "csp_Free","name": "🏝️Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
+{"key":"6v","name":"🤘6V┃电影","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"新视觉","name":"👁️新视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./json/新视觉.json"},
 
