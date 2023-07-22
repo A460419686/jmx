@@ -21,8 +21,6 @@
 
 {"key":"玩偶1","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
-{"key":"猫猫","name":"🍚米米┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/米米.json"},
-
 {"key":"drpy_js_345看片","name":"🚀345┃看片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
 {"key":"影探","name":"🕵️影探┃4K","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
@@ -46,6 +44,8 @@
 {"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
 
 {"key":"新视觉","name":"👁️新视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./json/新视觉.json"},
+
+{"key":"猫猫","name":"🍚米米┃TV","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./json/米米.json"},
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
 
