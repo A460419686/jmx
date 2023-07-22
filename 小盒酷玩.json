@@ -27,6 +27,8 @@
 
 {"key": "虎虎","name": "🐯虎虎┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
+{"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"}
+
 {"key": "csp_爱看","name": "🙆爱看┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱看.json"},
 
 {"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
