@@ -37,8 +37,6 @@
 
 {"key":"hd魔力","name":"🎲魔力┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/hd魔力.js"},
 
-
-
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
@@ -54,6 +52,8 @@
 {"key": "csp_WoGG","name":"💢玩偶┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
 
 {"key":"七夜","name":"😾七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
+
+{"key": "YiSo","name": "🛹易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
 {"key":"PanSearch","name":"🦊PanSearch┃云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
 
