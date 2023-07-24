@@ -57,6 +57,17 @@
 
 {"key":"七夜","name":"😾七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
 
+ {
+      "key": "csp_KungFu404",
+      "name": "🐲4k有效聚合",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "./jar/?id=bb;md5;6a2e4301b6c3d599aa43007374730429"
+    },
+
 {"key": "YiSo","name": "🛎易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
 {"key":"PanSearch","name":"🦊PanSearch┃云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto"},
