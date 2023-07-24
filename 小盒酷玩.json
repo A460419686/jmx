@@ -29,6 +29,8 @@
 
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
+{"key":"drpy_js_子子影视","name":"➰子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
+
 {"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
@@ -36,8 +38,6 @@
 {"key":"新视觉","name":"👁️新视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./json/新视觉.json"},
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
-
-{"key":"drpy_js_子子影视","name":"子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
 
 {"key":"hd魔力","name":"🎲魔力┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/hd魔力.js"},
 
