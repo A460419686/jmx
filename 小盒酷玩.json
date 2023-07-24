@@ -37,6 +37,17 @@
 
 {"key":"hd魔力","name":"🎲魔力┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/hd魔力.js"},
 
+{
+			"key": "🍄蘑菇",
+			"name": "🍄️蘑菇┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.gvideo.me/api.php/app/"
+		},
+
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
