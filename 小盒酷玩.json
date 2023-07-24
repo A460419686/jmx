@@ -47,6 +47,8 @@
 
 {"key":"drpy_js_酷客影院","name":"🎤酷客┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
 
+{"key": "狐狸","name": "🦊狐狸┃影视","type": 3,"api": "csp_AppYsV2","playerType": "2","ext": "https://www.kuin.one/api.php/app/"},
+
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
 {"key": "csp_WoGG","name":"💢玩偶┃蓝光","type": 3,"api": "csp_WoGG","playerType": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$https://wogg.xyz/","jar":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"},
