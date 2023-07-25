@@ -39,6 +39,8 @@
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
+{"key": "csp_appys_路人甲","name": "❤路人甲","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"}, 
+
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
