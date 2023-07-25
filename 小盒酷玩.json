@@ -37,7 +37,7 @@
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
 
-{"key":"hd魔力","name":"🎲魔力┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/hd魔力.js"},
+{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
