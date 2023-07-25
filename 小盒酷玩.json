@@ -71,6 +71,8 @@
 
 {"key":"哔哩高中","name":"📘高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/高中.json","jar":"./jar/jiaoyu.jar"},
 
+{"key":"兴趣健身","name":"🥈兴趣┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/兴趣课堂.json","jar":"./jar/jiaoyu.jar"},
+
 {"key":"xh","name":"💖公众号","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key":"xh1","name":"💖小盒酷玩","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
