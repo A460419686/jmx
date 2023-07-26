@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "🎯小盒酷玩┃Q群817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"阿里资源","name":"🌼酷玩┃2K","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url="},
+{"key":"阿里资源","name":"🌸酷玩┃2K","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url="},
 
 {"key":"玩偶1","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt+4k|fhd|auto $$$http://tvfan.xxooo.cf/"},
 
