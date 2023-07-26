@@ -77,7 +77,9 @@
 
 {"key":"xh","name":"💖公众号","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"xh1","name":"💖小盒酷玩","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh1","name":"💖小盒酷玩","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+{"key":"xh2","name":"💖7月26日更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
