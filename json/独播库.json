@@ -30,19 +30,21 @@
     
     "副标题":"content*>&&</span>",
     
-    "搜索url":"https://mayitube.com/search?q={wd}",
-    
-    "搜索二次截取": "<div class=\"mb-4*>&&</div></div></div>",
-    
-    "搜索数组":"<a class=\"vodthumb no-pajx\"&&</h1>",
-    
+    "搜索url": "http://wushutvcms.byzz.top/api.php/app/search?text={wd}&pg=",
+
+    "搜索模式": "1",
+
+    "搜索二次截取": "list\":[&&]",
+
+    "搜索数组": "{&&}",
+
     "搜索图片": "vod_pic\"*\"&&\"",
+
+    "搜索标题": "vod_name\"*\"&&\"",
+
+    "搜索副标题": "vod_remarks\"*\"&&\"",
     
-    "搜索标题": "<h1 class=\"mb-3*><span style=\"color: red;\">&&</span",
-    
-    "搜索副标题":"content*>&&</span>",
-    
-    "搜索链接":"href=\"&&\"",
+    "搜索链接": "http://wushutvcms.byzz.top/api.php/app/video_detail?id=+vod_id\":&&",
     
     "线路数组":"episodesTab\"&&</ul>[替换:视频选集>>小盒酷玩-独播库]",
     
