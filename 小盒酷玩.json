@@ -23,6 +23,8 @@
 
 {"key": "yunyun","name": "🎯️小盒┃酷玩","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/酷玩.json"},
 
+{"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"},
+
 {"key":"JOJO","name":"🧿酷玩┃蓝光","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"}, 
 
 {"key": "csp_tantan","name": "🎩影探┃4K","type": 3,"api": "csp_YT","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/xm1.jar"},
@@ -32,8 +34,6 @@
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key":"drpy_js_子子影视","name":"➰子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
-
-{"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"},
 
 {"key":"csp_来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
 
