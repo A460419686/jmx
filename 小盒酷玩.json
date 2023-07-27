@@ -35,7 +35,7 @@
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key": "影探","name": "🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://yt3823.lfytyl.com/api.php/app/"},
+{"key": "影探","name": "🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://yt3823.lfytyl.com/api.php/app/","jar":"./jar/kw.jar"},
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
 
