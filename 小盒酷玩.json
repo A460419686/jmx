@@ -39,7 +39,7 @@
 
 {"key": "蘑菇","name": "🍄蘑菇┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/蘑菇.json"},
 
-{"key":"影探4K","name":"🎩影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://ytcms.lfytyl.com/api.php/app/","jar":"./jar/kw.jar"},
+{"key":"yt","name":"🕵影探┃4K","type": 3,"api": "csp_App","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://yt432.lfytyl.com/api.php/app/","jar":"./jar/kw.jar"},
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
 
