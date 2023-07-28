@@ -33,7 +33,7 @@
 
 {"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://yt0312.lfytyl.com/api.php/app/","jar":"./jar/kw.jar"},
 
-{"key": "素白","name": "🥚素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
+{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_XBPQ_JOJO","name": "🧭酷玩┃专用","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专用.json"},
 
