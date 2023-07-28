@@ -29,6 +29,8 @@
 
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
+{"key":"酷影","name":"💠酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
+
 {"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://yt0312.lfytyl.com/api.php/app/","jar":"./jar/kw.jar"},
 
 {"key":"drpy_js_子子影视","name":"➰子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
@@ -40,8 +42,6 @@
 {"key": "小蚂蚁","name": "🐜蚂蚁┃专享","type": 3,"api": "csp_XBPQ","ext": "./json/专享.json"},
 
 {"key": "蘑菇","name": "🍄蘑菇┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/蘑菇.json"},
-
-{"key":"酷影","name":"🤖酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
 
 {"key":"猫放时光","name":"😻萌猫┃TV","type":3,"api":"csp_XBPQ","ext":"./json/萌猫.json"},
 
