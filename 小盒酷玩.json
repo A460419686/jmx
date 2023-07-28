@@ -21,7 +21,7 @@
 
 {"key": "yunyun","name": "🎯️小盒┃酷玩","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/酷玩.json"},
 
-{"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tvbox.dytt996.com/api.php/app/"},
+{"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"},
 
 {"key":"JOJO","name":"🧿酷玩┃蓝光","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"}, 
 
