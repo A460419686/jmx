@@ -43,8 +43,6 @@
 
 {"key": "dr_jqr","name": "💿聚合┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/聚合.js"}, 
 
-{"key":"迷你库","name":"♟迷你库┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key": "小蚂蚁","name": "🐜蚂蚁┃专享","type": 3,"api": "csp_XBPQ","ext": "./json/专享.json"},
