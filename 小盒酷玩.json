@@ -59,8 +59,6 @@
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
-{"key":"drpy_js_酷客影院","name":"🎤酷客┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
-
 {"key": "落落","name": "🔥ali┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://luoye.shop:66/api.php/app/"},
 
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
