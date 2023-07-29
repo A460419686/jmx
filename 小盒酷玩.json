@@ -31,7 +31,7 @@
 
 {"key":"酷影","name":"💠酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
 
-{"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/影探.js"},
+{"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影探.js"},
 
 {"key": "qiqi","name": "🦉奇奇┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/qiqi.json"},  
 
