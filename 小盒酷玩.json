@@ -25,7 +25,7 @@
 
 {"key":"JOJO","name":"🧿酷玩┃蓝光","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"}, 
 
-{"key": "云云","name": "🗯️️芸芸┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/云云.json"},
+{"key": "云云","name": "🗯️️云云┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/云云.json"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
