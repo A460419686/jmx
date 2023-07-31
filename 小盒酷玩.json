@@ -37,7 +37,7 @@
 
 {"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影探.js"},  
 
-{"key":"来米","name":"🍿来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米影视.js"},
+{"key":"来米","name":"🍿来米┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/来米.js"},
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
