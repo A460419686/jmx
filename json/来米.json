@@ -5,8 +5,8 @@
     "站名":"来米影视",
     
     "主页url":"https://www.laimi.me/",
-            
-    "简介":"小盒酷玩提醒您：请勿相信影片中的广告，以免上当受骗！+<p&&</p>",
+    
+    "简介":"【小盒酷玩】提醒您：请勿相信影片中的广告，以免上当受骗！+<p&&</p>",
     
     "影片状态":"集数：&&</div>",
     
@@ -14,16 +14,16 @@
     
     "线路数组":"data-dropdown-value=&&</div>",
     
-    "线路标题":"小盒酷玩+<span>&&</small>[替换:</span><small>>>共]+集",
+    "过滤词": "data.m3u8.in",
+    
+    "线路标题":"小盒酷玩-+<span>&&</small>[替换:</span><small>>>共]+集",
     
     "分类url":"https://www.laimi.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;k",
     
-    "跳转播放链接": "https://data.m3u8.in/?url=+link_pre*url\":\"&&\"+&from=+\"from\"*\"&&\"",
+    "跳转播放链接": "https://data.m3u8.in/play.php?url=+link_pre*url\":\"&&\"+&from=+\"from\"*\"&&\"",
     
-    "二次跳转播放链接": "https://data.m3u8.in/api.php?url=+const Url*\"&&\"+&sign=+const Sign*\"&&\"+&form=+const From*\"&&\"",
-    
-    "三次跳转播放链接": "\"url\"*\"&&\"",
-    
+    "嗅探词": ".mp4?#&dis_t#vkey=#.m3u8",
+        
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4#少儿$5",
     
     "筛选":{
