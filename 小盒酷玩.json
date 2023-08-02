@@ -41,7 +41,7 @@
 
 {"key": "csp_XBPQ_JOJO","name": "🧭酷玩┃专用","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专用.json"},
 
-{"key":"drpy_js_奇优影院","name":"🛬奇优┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优影院.js"},
+{"key":"drpy_js_奇优影院","name":"🛬奇优┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优.js"},
 
 {"key":"JOJO","name":"🧿酷玩┃蓝光","type":3,"api":"csp_XBPQ","ext":"./json/小盒酷玩.json"},
 
