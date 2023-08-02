@@ -21,7 +21,9 @@
 
 {"key": "yunyun","name": "🎯️小盒┃酷玩","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/酷玩.json"},
 
-{"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"}, 
+{"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"},
+
+{"key":"cps_阿里","name":"👻阿里┃2K","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","searchable":1,"playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url=","quickSearch":1},
 
 {"key": "云云","name": "🗯️️云云┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/云云.json"},
 
