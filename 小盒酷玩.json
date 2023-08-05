@@ -21,8 +21,6 @@
 
 {"key": "csp_appys_路人甲","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zl.yy365.vip/api.php/app/"},
 
-{"key": "云云","name": "🗯️️云云┃蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/云云.json"},
-
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
