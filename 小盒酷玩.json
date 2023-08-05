@@ -25,8 +25,6 @@
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
-{"key":"南瓜","name":"🎃南瓜┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜.js"},
-
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
 {"key": "csp_来米","name": "🍿来米┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/来米.json"},
@@ -40,6 +38,8 @@
 {"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影探.js"}, 
 
 {"key":"酷影","name":"💠酷影┃APP","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
+
+{"key":"南瓜","name":"🎃南瓜┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"http://xn--yet226clhctt4b.fun:66/js/南瓜.js"},
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
