@@ -31,7 +31,7 @@
 
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"如意","name":"🪝如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"./kw.jar"},
+{"key":"如意","name":"🪝如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"./jar/kw.jar"},
 
 {"key":"酷影","name":"💠酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
 
