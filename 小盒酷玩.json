@@ -47,6 +47,8 @@
 
 {"key": "csp_XBPQ_JOJO","name": "🧭酷玩┃专用","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专用.json"},
 
+{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
+
 {"key":"drpy_js_奇优影院","name":"🛬奇优┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优.js"},
 
 {"key":"drpy_js_子子影视","name":"➰子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
@@ -58,8 +60,6 @@
 {"key": "小蚂蚁","name": "🐜蚂蚁┃专享","type": 3,"api": "csp_XBPQ","ext": "./json/专享.json"},
 
 {"key": "蘑菇","name": "🍄蘑菇┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/蘑菇.json"},
-
-{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
