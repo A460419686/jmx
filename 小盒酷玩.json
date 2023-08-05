@@ -65,6 +65,8 @@
 
 {"key": "csp_农民","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民.json"},
 
+{"key":"搜狗","name":"🐶搜狗┃官采","type":3,"api":"./lib/drpy2.min.js","ext":"./js/搜狗.js"},
+
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
