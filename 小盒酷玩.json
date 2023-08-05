@@ -39,6 +39,8 @@
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
+{"key":"酷映", "name": "🎬酷映┃TV", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
+
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_XBPQ_JOJO","name": "🧭酷玩┃专用","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专用.json"},
@@ -48,8 +50,6 @@
 {"key":"drpy_js_奇优影院","name":"🛬奇优┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优.js"},
 
 {"key":"drpy_js_子子影视","name":"➰子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
-
-{"key":"酷映", "name": "🎬酷映┃TV", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 
 {"key": "dr_jqr","name": "💿聚合┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/聚合.js"}, 
 
