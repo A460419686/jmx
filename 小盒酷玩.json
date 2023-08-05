@@ -57,8 +57,6 @@
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
-{"key":"drpy_js_六度TV","name":"💦六度┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/六度.js"},
-
 {"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key":"厂长","name":"🍭厂长┃资源","type": 3,"api":"csp_Czsapp","playerType":2,"ext":"https://czzy.art/"},
