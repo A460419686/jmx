@@ -15,7 +15,7 @@
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{"key":"wogg","name":"🤖玩偶┃4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg"},
+{"key":"wogg","name":"🤖玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
