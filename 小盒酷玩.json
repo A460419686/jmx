@@ -57,6 +57,8 @@
 
 {"key":"南瓜","name":"🎃南瓜┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"http://xn--yet226clhctt4b.fun:66/js/南瓜.js"},
 
+{"key":"csp_花猫","name":"🐱花猫|TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/花猫.json"},
+
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
 {"key": "小蚂蚁","name": "🐜蚂蚁┃专享","type": 3,"api": "csp_XBPQ","ext": "./json/专享.json"},
