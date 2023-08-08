@@ -35,8 +35,6 @@
 
 {"key":"酷玩速播","name":"🎯酷玩┃速播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/速播.json"},
 
-{"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yt3353.lfytyl.com/api.php/app/"},
-
 {"key":"酷影","name":"💠酷影┃APP","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
@@ -115,8 +113,6 @@
 {"name": "解析2","type": 0,"url": "https://jx.m3u8.pw/?url="},
 
 {"name": "解析3","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-
-{"name": "影探4K","type": 1,"url": "http://m3u8.lyyytv.cn/json.php?url="},
 
 {"name": "VIP","type": 1,"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url="},
 
