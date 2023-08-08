@@ -23,7 +23,7 @@
 
 {"key":"LWF", "name": "🪔LWF┃4K", "type": 3,"api":"csp_AppYsV2","searchable": 1, "quickSearch":1,"filterable":1,"ext": "http://154.204.178.161:67/api.php/app/"},
 
-{"key": "四零","name": "四零┃云播","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/四零.json"},
+{"key": "四零","name": "📛四零┃云播","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/四零.json"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
