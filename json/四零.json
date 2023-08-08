@@ -1,10 +1,9 @@
 {
-"站名":"星辰影视",
+"站名":"四零云播",
 "主页url":"http://www.40yb.com",
 "起始页":"2",
-"线路数组":"more text-muted pull-right&&</div>[替换:优酷视频>>星辰云]",
-"线路标题":"title\">&&<",
-
+"线路数组":"more text-muted pull-right&&</div>[替换:优酷视频>>四零云]",
+"线路标题":"小盒酷玩-+title\">&&<",
 "强制解析":"0",
 "播放数组":"stui-content__playlist playlink clearfix&&/ul>",
 "播放链接":"href='&&'",
