@@ -27,7 +27,7 @@
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
-{"key":"jp","name":"ρ荐片┃在线","type":4,"api":"http://120.53.102.254/t4/t477"},
+{ "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
