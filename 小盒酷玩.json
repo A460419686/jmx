@@ -35,6 +35,8 @@
 
 {"key":"如意","name":"🪝如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"./jar/kw.jar"},
 
+{"key":"yt","name":"📳影探|4K","type": 3,"api": "csp_App","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://yt123.lfytyl.com/api.php/app/","jar":"./jar/yt.jar"},
+
 {"key":"酷玩速播","name":"🎯酷玩┃速播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/速播.json"},
 
 {"key":"酷影","name":"💠酷影┃APP","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:62703/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电影","电视剧","综艺","动漫"],"jar":"./jar/kw.jar"},
