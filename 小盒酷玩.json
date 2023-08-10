@@ -63,6 +63,8 @@
 
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
+{"key": "阿里喵搜","name": "🎬阿里┃喵搜","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Ali","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "小蚂蚁","name": "🐜蚂蚁┃专享","type": 3,"api": "csp_XBPQ","ext": "./json/专享.json"},
 
 {"key": "蘑菇","name": "🍄蘑菇┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/蘑菇.json"},
