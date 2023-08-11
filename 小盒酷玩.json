@@ -47,8 +47,6 @@
 
 {"key": "耐看","name": "👀耐看┃点播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mdy.ahailove.cn/api.php/app/"},
 
-{"key": "T4_888","name":"🌎888☆T4","type":4,"api":"https://public.t4tv.hz.cz/888","searchable":1,"quickSearch":1,"filterable": 1},
-
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
