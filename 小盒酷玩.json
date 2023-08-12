@@ -122,6 +122,8 @@
 
 {"name": "VIP","type": 1,"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url="},
 
+{"name": "VIP2","type": 1,"url": "http://27.124.4.42:4567//jhjson//ceshi.php?url=","ext": {"flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
+
 {"name": "耐看解析","type": 1,"url": "http:/xhww.fun:63/特别爱小米.php?url=","ext": {"flag": ["qiqi","CL4K","NBY","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}}],
 
 
