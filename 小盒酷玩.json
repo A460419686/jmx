@@ -45,6 +45,8 @@
 
 {"key": "八仟","name": "️🦀八仟┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"},
 
+{"key":"两个bt","name":"🥂两个┃BT","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个bt.js"},
+
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
