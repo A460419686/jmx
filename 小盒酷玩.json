@@ -23,7 +23,7 @@
 
 {"key": "奇奇","name": "奇奇┃2K","type": 1,"playerType": 1,"api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","categories": ["动漫","连续剧","电影","综艺"]},
 
-{"key": "AppYs_yumi","name": "玉米┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js玉米.js"},
+{"key": "AppYs_yumi","name": "玉米┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/玉米.js"},
 
 {"key": "四零","name": "📛四零┃云播","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/四零.json"},
 
