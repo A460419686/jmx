@@ -21,6 +21,8 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
+{"key": "奇奇","name": "奇奇┃影视","type": 1,"playerType": 1,"api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","categories": ["动漫","连续剧","电影","综艺"]},
+
 {"key": "四零","name": "📛四零┃云播","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/四零.json"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
