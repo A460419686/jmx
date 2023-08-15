@@ -126,17 +126,15 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
-{"name": "解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "🎯VIP","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name": "解析2","type": 0,"url": "https://jx.m3u8.pw/?url="},
+{"name": "🎯VIP1", "type": 1, "url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=", "ext": { "flag": [ "JHA", "JHB", "mmal"] }},
 
-{"name": "解析3","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name": "🎯VIP2","type": 0,"url": "https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent": "Lavf/58.12.100"}}},
 
-{"name": "VIP","type": 1,"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url="},
+{"name": "🎯VIP3","type": 1, "url": "https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=", "ext": { "flag": [ "FY" ] ,"header":{"User-Agent": "Lavf/58.12.100"}}}
 
-{"name": "VIP2","type": 1,"url": "http://27.124.4.42:4567//jhjson//ceshi.php?url=","ext": {"flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
-
-{"name": "耐看解析","type": 1,"url": "http:/xhww.fun:63/特别爱小米.php?url=","ext": {"flag": ["qiqi","CL4K","NBY","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}}],
+],
 
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
