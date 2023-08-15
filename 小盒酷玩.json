@@ -27,8 +27,6 @@
 
 {"key": "xmylg","name": "🐜蚂蚁┃蓝光","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/蚂蚁.js"},
 
-{"key": "四零","name": "📛四零┃云播","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/四零.json"},
-
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
