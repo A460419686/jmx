@@ -29,7 +29,7 @@
 
 {"key": "KW2k","name": "🥷酷玩┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
 
-{ "key": "玉米", "name": "🌽玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
+{"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
@@ -44,6 +44,8 @@
 {"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
+
+{ "key": "玉米", "name": "🌽玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
 
 {"key":"348影视","name":"🎷348┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348.json"},
 
