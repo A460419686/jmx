@@ -19,8 +19,6 @@
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
-{"key": "KW2k","name": "🥷酷玩┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
-
 {"key": "xmylg","name": "🐜蚂蚁┃蓝光","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/蚂蚁.js"},
 
 {"key":"如意","name":"🐥如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"./jar/kw.jar"},
@@ -29,6 +27,8 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
+{"key": "KW2k","name": "🥷酷玩┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
+
 { "key": "玉米", "name": "🌽玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
@@ -36,6 +36,10 @@
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key": "qq2k","name": "🏵QQ┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+
+{"key": "csp_来米","name": "🍿来米┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/来米.json"},
+
+{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 
@@ -54,10 +58,6 @@
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
-
-{"key": "csp_来米","name": "🍿来米┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/来米.json"},
-
-{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key": "dr_jqr","name": "💿聚合┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/聚合.js"}, 
 
