@@ -45,6 +45,8 @@
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
+{"key":"348影视","name":"🎷348┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348.json"},
+
 {"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
