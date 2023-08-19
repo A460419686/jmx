@@ -19,8 +19,6 @@
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
-{ "key": "玉米", "name": "🌽玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
-
 {"key": "KW2k","name": "🥷酷玩┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
 
 {"key": "xmylg","name": "🐜蚂蚁┃蓝光","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/蚂蚁.js"},
@@ -31,11 +29,15 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
+{ "key": "玉米", "name": "🌽玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
+
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key": "qq2k","name": "🏵QQ┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+
+{"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 
 {"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
 
@@ -49,17 +51,11 @@
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
-{"key": "八仟","name": "️🦀八仟┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"},
-
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_来米","name": "🍿来米┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/来米.json"},
-
-{"key":"蓝光聚合","name":"💙蓝光┃聚合","type":4,"api":"https://public.t4tv.hz.cz/888","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-
-{"key":"drpy_js_奇优影院","name":"🛬奇优┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优.js"},
 
 {"key":"drpy_js_子子影视","name":"➰子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
 
@@ -67,11 +63,7 @@
 
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
-{"key": "蘑菇","name": "🍄蘑菇┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/蘑菇.json"},
-
-{"key": "csp_厂长","name": "🍎华东源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
-
-{"key": "csp_农民","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民.json"},
+{"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
@@ -80,8 +72,6 @@
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
 {"key":"荐片","name":"ρ荐片┃播放器","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
-
-{"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 
 {"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
