@@ -65,8 +65,6 @@
 
 {"key": "dr_jqr","name": "💿聚合┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/聚合.js"}, 
 
-{"key":"南瓜","name":"🎃南瓜┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"http://xn--yet226clhctt4b.fun:66/js/南瓜.js"},
-
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
 {"key": "蘑菇","name": "🍄蘑菇┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/蘑菇.json"},
