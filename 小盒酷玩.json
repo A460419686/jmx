@@ -57,10 +57,6 @@
 
 {"key":"ytyb","name":"🐰野兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
 
-{"key":"酷玩速播","name":"🎯酷玩┃速播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/速播.json"},
-
-{"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zvvvvvwvvvvvwvvwvvvwvwvwwvwwvvvvvwvwwwwvvvvwvwvvwvvwwvwvvwvvvwv.lfytyl.com/api.php/app/"},
-
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
