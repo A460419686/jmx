@@ -21,8 +21,6 @@
 
 {"key": "xmylg","name": "🐜蚂蚁┃蓝光","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/蚂蚁.js"},
 
-{"key":"如意","name":"🐥如意┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"./jar/kw.jar"},
-
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
@@ -93,7 +91,7 @@
 
 {"key":"xh1","name":"💖小盒酷玩","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"xh2","name":"💖8月19日更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh2","name":"💖8月22日更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
