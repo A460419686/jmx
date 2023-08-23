@@ -98,6 +98,10 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
+{"name": "🧿酷影","type": 1,"url": "http://jx.realdou.cn/api/?key=j4vwSEv2iAE54EWTbM&url=","ext": {"flag": ["kuying-lg", "kuying-mp4", "kuying-m3u8", "kuying-zj"],"header":{"User-Agent":"okhttp/3.12.11"}}},
+
+{"name": "🧿酷影TV","type": 1,"url": "http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","ext": {"flag": ["kuying-3k"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
 {"name": "🌽玉米","type": 1,"url": "http://42.157.128.109:2323/CH/zy/Yumi.php?url="},
 
 {"name": "🎯VIP","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
