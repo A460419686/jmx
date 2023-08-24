@@ -17,7 +17,7 @@
 
 {"key":"wo_t4","name":"🧙玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f472d5f67ccb45bc9506c7342fc0392d","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "push_agent","name": "测试","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "f472d5f67ccb45bc9506c7342fc0392d"},
+{"key": "push_agen","name": "测试","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "f472d5f67ccb45bc9506c7342fc0392d"},
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
