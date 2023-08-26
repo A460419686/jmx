@@ -100,6 +100,8 @@
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["YT_4k"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
+{"name":"🌽玉米","type":1,"url":"http://www.d18.icu/api/?key=Ur3JoCvLzhWT0YaVYK&url="},
+
 {"name": "🐜蚂蚁","type": 1,"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🎯VIP","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
