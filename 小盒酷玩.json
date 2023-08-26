@@ -31,7 +31,7 @@
 
 {"key": "qiqi","name": "🛵奇奇┃2K","type": 1,"api": "http://qq.xzam.cn:66/api.php/provide/vod/","playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url="},
 
-{"key":"追剧","name":"追剧┃2K","type":3,"api":"http://4k.953365.cn:8090/xgapp.php/v3/","playUrl": "https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url="},
+{"key":"追剧","name":"追剧┃2K","type":1,"api":"http://4k.953365.cn:8090/xgapp.php/v3/","playUrl": "https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url="},
 
 {"key": "kytv", "name": "🧢新酷影┃TV", "type": 3,"playerType":1,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"}, 
 
