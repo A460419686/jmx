@@ -104,6 +104,8 @@
 
 {"name": "🐜蚂蚁","type": 1,"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
+{"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
+
 {"name": "🎯VIP","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🎯VIP1", "type": 1, "url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=", "ext": { "flag": [ "JHA", "JHB", "mmal"] }},
