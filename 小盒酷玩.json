@@ -30,8 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./alitoken.txt"
-    },
+      "ext": "./alitoken.txt","jar":"http://weixine.link:33/运输专线/YSC.jar"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
