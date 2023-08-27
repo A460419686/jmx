@@ -85,6 +85,8 @@
     
 {"key": "YiSo","name": "🛎易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
+{"key":"csp_YT","name":"笑死人┃哈哈", "type": 3, "api":"csp_YT","ext":"http://vip.lyyytv.cn###d2f9e0f2ab7a392b","jar":"./kwpmd.jar"},
+
 {"key":"xh","name":"🎯抖音卖盒子软件的都是骗子","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./jar/kwpmd.jar"}
 
 ],
