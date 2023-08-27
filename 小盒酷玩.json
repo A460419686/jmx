@@ -29,7 +29,7 @@
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
-{"key": "qiqi","name": "🛵奇奇┃2K","type": 1,"api": "http://qq.xzam.cn:66/api.php/provide/vod/","playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url="},
+{"key":"qiqi","name":"🛵奇奇┃2K","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/","playUrl":"json:https://dx.maclsj.com/blue/json.php?url="},
 
 {"key": "kytv", "name": "🧢新酷影┃TV", "type": 3,"playerType":1,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"}, 
 
