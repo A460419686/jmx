@@ -25,8 +25,6 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key": "KW2k","name": "🥷酷玩┃2K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","ext": "./js/酷玩2k.js"},
-
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
 {"key":"qiqi","name":"🛵奇奇┃2K","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/","playUrl":"json:https://dx.maclsj.com/blue/json.php?url="},
