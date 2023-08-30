@@ -17,7 +17,7 @@
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{"key":"wo_t4","name":"🧙玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b3e369e3e0254947b67fb9d4500505da","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"wo_t4","name":"🧙玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=5cff15b3ad5b433297bf848bf0a35ae7","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
