@@ -13,9 +13,7 @@
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-
-{"key":"直播转点播","name":"🎯VIP┃应用市场","type":3,"api":"./js/直播转点播.js","searchable":0,"quickSearch":0,"ext":"./应用市场.json"}
+{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
