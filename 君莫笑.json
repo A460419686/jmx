@@ -378,12 +378,6 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
-{
-      "name": "超级嗅探",
-      "type": 3,
-      "url": "Web"
-    },
-
   {
       "name": "盖碗解析",
       "type": 1,
