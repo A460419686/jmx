@@ -439,6 +439,19 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
+
+  {
+      "name": "🌽玉米",
+      "type": 1,
+      "url": "http://61.147.93.21:8090/index.php?url="
+    },
+
+    {
+      "name": "超级并发",
+      "type": 3,
+      "url": "Demo"
+    },
+    
 {"name": "web聚合","type": 3,"url": "Web"}
 
 ],
