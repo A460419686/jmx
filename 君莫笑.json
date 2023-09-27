@@ -337,10 +337,31 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://xn--yet226clhctt4b.fun:66/js/tengxun.js"
-    }
+    },
+    
+    {
+      "key": "腾讯",
+      "name": " 🐧优酷┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/优酷.js"
+    },
 
+    {
+      "key": "腾讯",
+      "name": "  🥭芒果┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/百忙无果.js"
+    },
     
-    
+    {
+      "key": "腾讯",
+      "name": "  🌲奇艺┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/奇珍异兽.js"
+    }
 
     
     
