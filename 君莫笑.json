@@ -72,6 +72,17 @@
     },
     
     {
+      "key": "drpy_追忆",
+      "name": "🤳追忆┃TV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
+    },
+
+    {
       "key": "csp_Hdhive_影巢",
       "name": "🦜影巢┃云搜",
       "type": 3,
@@ -318,6 +329,14 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+
+    {
+      "key": "腾讯",
+      "name": " 🐧腾讯┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/tengxun.js"
     }
 
     
