@@ -376,7 +376,6 @@
 
 "parses": [ 
 
-{"name": "解析聚合","type": 3,"url": "Demo"},
 
   {
       "name": "盖碗解析",
@@ -451,6 +450,8 @@
       "type": 3,
       "url": "Demo"
     },
+
+  {"name": "解析聚合","type": 3,"url": "Demo"},
     
 {"name": "web聚合","type": 3,"url": "Web"}
 
