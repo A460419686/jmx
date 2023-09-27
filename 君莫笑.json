@@ -9,6 +9,17 @@
 
 {"key": "豆瓣","name": "❤君莫笑❤仅供娱乐❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
+{
+      "key": "csp_WoGG",
+      "name": "👽玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    }
+
 
 
 
