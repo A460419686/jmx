@@ -18,7 +18,73 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    }
+    },
+
+
+    {
+      "key": "贱贱",
+      "name": "🐭贱贱┃p2p",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+    },
+
+    {
+      "key": "荐片",
+      "name": "🔪荐片┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
+    },
+
+     {
+      "key": "厂长在线",
+      "name": "👷厂长┃在线",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/在线.js"
+    },
+
+    {
+      "key": "csp_AppYsV2_影探",
+      "name": "🕵影探┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+    },
+    
+    {
+      "key": "电影港",
+      "name": "💫电影┃港湾",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": "1",
+      "ext": "./json/电影港.json",
+      "jar": "./jar/xyq.jar"
+    },
+    
+    {
+      "key": "csp_Hdhive_影巢",
+      "name": "🦜影巢┃云搜",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./tvbox/tok.txt",
+      "jar": "./jar/ali.jar"
+    },
+
+
 
 
 
