@@ -7,9 +7,9 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "❤君莫笑❤仅供娱乐❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "❤君莫笑❤仅供娱乐❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
-{"key": "douban","name": "❤君莫笑❤学习交流❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+
 
 
 ],
