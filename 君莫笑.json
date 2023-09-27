@@ -2,14 +2,14 @@
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 {
 
-"warningText":"小盒酷玩提醒：江湖路漫漫-有缘再会！",    
+"warningText":"君莫笑：江湖路漫漫-有缘再会！",    
 
 
 "sites":[
 
-{"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "❤君莫笑❤仅供娱乐❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "❤君莫笑❤学习交流❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
