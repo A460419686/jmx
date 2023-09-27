@@ -20,7 +20,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 
-
     {
       "key": "贱贱",
       "name": "🐭贱贱┃p2p",
@@ -82,7 +81,7 @@
       "filterable": 1,
       "ext": "./tvbox/tok.txt",
       "jar": "./jar/ali.jar"
-    },
+    }
 
 
 
