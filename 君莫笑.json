@@ -337,29 +337,9 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://xn--yet226clhctt4b.fun:66/js/tengxun.js"
-    },
-
-    {
-      "key": "Itv",
-      "name": "🥝奇艺┃官源",
-      "type": 3,
-      "api": "csp_Itv",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    
-    {
-      "key": "Mtv",
-      "name": "🍋芒果丨官源",
-      "type": 3,
-      "api": "csp_Mtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     }
+
+    
     
 
     
