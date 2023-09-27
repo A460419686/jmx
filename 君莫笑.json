@@ -418,6 +418,12 @@
 			"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "letv", "乐视", "pptv", "PPTV", "sohu", "xigua","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		} 
   },
+
+  {
+      "name": "超级解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
+    },
 {"name": "web聚合","type": 3,"url": "Web"}
 
 ],
