@@ -362,7 +362,16 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
-    }
+    },
+  
+   {
+    "key":"drpy_js_酷云七七",
+    "name":"影视 | 酷云七七[js]",
+    "type":3,
+    "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
+   }
+
 
     
     
@@ -450,6 +459,50 @@
       "name": "超级并发",
       "type": 3,
       "url": "Demo"
+    },
+
+    {
+      "name": "茶杯解析",
+      "type": 1,
+      "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
     },
 
   {"name": "解析聚合","type": 3,"url": "Demo"},
