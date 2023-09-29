@@ -60,16 +60,15 @@
       "ext": "http://xn--yet226clhctt4b.fun:66/js/在线.js"
     },
 
-    {
-        "key": "影探",
-        "name": " 🕵影探┃直连",
-        "type": 3,
-        "playerType": "1",
-        "api": "csp_YTVIP",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "vip.lyyytv.cn"
+     {
+      "key": "csp_AppYsV2_影探",
+      "name": "🕵影探┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
     }, 
     
     {
@@ -397,7 +396,15 @@
 
    {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
 
-   {"key": "douban","name": " 🛠2023.09.29🛠","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+    {
+      "key": "xh",
+      "name": "2023.09.29更新",
+      "type": 3,
+      "api": "csp_JMX",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
 
 
   
