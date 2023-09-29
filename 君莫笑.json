@@ -327,7 +327,7 @@
 
     {
       "key": "yc",
-      "name": "🦊HDR┃4K",
+      "name": "🧲HDR┃4K",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -398,7 +398,7 @@
 
     {
       "key": "csp_search_PanSearch",
-      "name": "🗂️┃盘Se┃搜索",
+      "name": "🖥盘Se┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
