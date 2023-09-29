@@ -380,7 +380,7 @@
     "type":3,
     "api":"./lib/drpy2.min.js",
     "ext":"./js/酷云77.js"
-   }
+   },
 
    {
     "key":"腾讯",
@@ -388,7 +388,7 @@
     "type":3,
     "api":"./js/lib/drpy2.min.js",
     "ext":"./js/tengxun.js"
-   },
+   }
 
 
     
