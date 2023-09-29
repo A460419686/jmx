@@ -399,10 +399,47 @@
 "parses": [ 
 
   {
-    "name": "777",
+    "name": " 🎯777嗅探",
     "type": 0,
     "url": "https://jx.777jiexi.com/player/?url="
   },
+
+   {
+      "name": "大家",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+
+   {
+      "name": "🎯小种嗅探",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
 
    {"name": "🎯并发解析","type": 3,"url": "Demo"},
 
