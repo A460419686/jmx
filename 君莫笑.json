@@ -8,7 +8,7 @@
 "sites":[
 
 {"key": "豆瓣","name": "❤君莫笑❤仅供娱乐❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-{"key": "豆瓣","name": " 🏮中秋节快乐🏮","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
     {
       "key": "csp_WoGG",
       "name": "👽玩偶┃4K",
