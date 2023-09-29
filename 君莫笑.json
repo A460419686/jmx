@@ -396,8 +396,10 @@
 ],
 
 
-"parses": [ 
+"parses": [
 
+  {"name": "🎯并发解析","type": 3,"url": "Demo"}, 
+   
   {
     "name": " 🎯777嗅探",
     "type": 0,
@@ -440,8 +442,6 @@
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
-
-   {"name": "🎯并发解析","type": 3,"url": "Demo"},
 
    {
       "name": " 🎯超级解析",
