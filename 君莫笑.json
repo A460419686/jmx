@@ -376,11 +376,21 @@
   
    {
     "key":"酷云七七",
-    "name":" ☁酷云丨七七",
+    "name":" ☁酷云┃七七",
     "type":3,
     "api":"./lib/drpy2.min.js",
     "ext":"./js/酷云77.js"
+   },
+  
+   {
+    "key":"搜狗",
+    "name":" 🐶搜狗┃官源",
+    "type":3,
+    "api":"./js/lib/drpy2.min.js",
+    "ext":"./js/caigou.js"
    }
+
+   {"key":"sohu","name":"🚛搜狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"}
 
    
 
