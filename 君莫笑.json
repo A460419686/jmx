@@ -60,17 +60,18 @@
       "ext": "http://xn--yet226clhctt4b.fun:66/js/在线.js"
     },
 
-     {
-      "key": "csp_AppYsV2_影探",
-      "name": "🕵影探┃4K",
+      {
+      "key": "探探",
+      "name": "🏄┃影探┃4K",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": "1",
+      "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
-    }, 
-    
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+ 
     {
       "key": "电影港",
       "name": " 🚢电影┃港湾",
