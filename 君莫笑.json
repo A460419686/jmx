@@ -397,7 +397,13 @@
 
 
 "parses": [ 
-    
+
+  {
+    "name": "777",
+    "type": 0,
+    "url": "https://jx.777jiexi.com/player/?url="
+  },
+
    {"name": "🎯并发解析","type": 3,"url": "Demo"},
 
    {
