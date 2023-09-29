@@ -8,6 +8,17 @@
 "sites":[
 
 {"key": "豆瓣","name": "❤君莫笑❤仅供娱乐❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+  
+    {
+      "key": "csp_KungFu404",
+      "name": " 🎬阿里┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://jihulab.com/a460419686/jmx/-/edit/main/alibaba.jar"
+    },
 
     {
       "key": "csp_WoGG",
