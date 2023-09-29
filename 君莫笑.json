@@ -395,9 +395,8 @@
       "ext": "./json/360影视.json"
     },
 
-   {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
+   {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"}
 
- {"key": "豆瓣","name": "❤2023.09.29❤","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
   
 
