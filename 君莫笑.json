@@ -391,7 +391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/360影视.json"
+      "ext": "./json/360影视.json"
     },
 
    {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"}
