@@ -321,25 +321,26 @@
     },
 
     {
-      "key": "YiSo",
-      "name": "🖥阿里┃4K易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-
-    {
       "key": "Upyunso",
-      "name": "🖥阿里 ┃ 云搜",
+      "name": "🖥阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+
+    {
+      "key": "csp_search_Yisou",
+      "name": "🖥阿里┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
 
     {
@@ -382,7 +383,22 @@
     "ext":"./js/酷云77.js"
    },
   
+   {
+      "key": "csp_SP360",
+      "name": "📺360┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/360影视.json"
+    },
+
    {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"}
+
+  
+
+
 
    
 
