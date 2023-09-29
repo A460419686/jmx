@@ -143,7 +143,7 @@
 
     {
       "key": "csp_XYQHiker_‍dyx",
-      "name": "🧲┃电影┃4k",
+      "name": " 🧲电影┃4k",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -155,7 +155,7 @@
 
     {
       "key": "csp_Mp4Mov",
-      "name": "🧲┃Mp4┃4k",
+      "name": "🧲Mp4┃4k",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -166,7 +166,7 @@
 
     {
       "key": "csp_New6v",
-      "name": "🧲┃新6V┃4k",
+      "name": "🧲新6V┃4k",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -178,7 +178,7 @@
 
     {
       "key": "csp_KubaCL",
-      "name": "🧲┃酷吧┃4k",
+      "name": "🧲酷吧┃4k",
       "type": 3,
       "api": "csp_KubaCL",
       "playerType": 1,
@@ -190,7 +190,7 @@
 
     {
       "key": "csp_BLSGod",
-      "name": "🧲┃80S┃4k",
+      "name": "🧲80S┃4k",
       "type": 3,
       "api": "csp_BLSGod",
       "playerType": 1,
@@ -202,7 +202,7 @@
 
     {
       "key": "csp_Xunlei8",
-      "name": "🧲┃迅雷┃4k",
+      "name": "🧲迅雷┃4k",
       "type": 3,
       "api": "csp_Xunlei8",
       "playerType": 1,
@@ -214,7 +214,7 @@
 
     {
       "key": "csp_XYQHikerAL_4KHDR",
-      "name": "🧲┃4KHDR┃4k",
+      "name": "🧲4KHDR┃4k",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -227,7 +227,7 @@
 
     {
       "key": "csp_XYQHiker_BT天堂",
-      "name": "🧲┃BT天堂┃4k",
+      "name": "🧲BT天堂┃4k",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -239,7 +239,7 @@
 
     {
       "key": "csp_XYQHiker_极影网",
-      "name": "🧲┃极影┃4k",
+      "name": "🧲极影┃4k",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -251,7 +251,7 @@
 
     {
       "key": "彩虹",
-      "name": "🌈┃彩虹┃4K",
+      "name": "🌈彩虹┃4K",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 1,
@@ -263,7 +263,7 @@
 
     {
       "key": "csp_XBPQ_6V",
-      "name": "🌙┃宝盒┃磁力",
+      "name": "🌙宝盒┃磁力",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -274,7 +274,7 @@
 
     {
       "key": "yc",
-      "name": "🦊┃磁力┃4KHDR",
+      "name": "🦊4KHDR┃磁力",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -287,7 +287,7 @@
 
     {
       "key": "Zhaozy",
-      "name": "🖥┃阿里┃4K找资源",
+      "name": "🖥阿里┃4K找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -299,7 +299,7 @@
 
     {
       "key": "PanSearch",
-      "name": "🖥┃阿里┃飞龙4K",
+      "name": "🖥阿里┃飞龙4K",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -310,7 +310,7 @@
 
     {
       "key": "七夜",
-      "name": "🖥┃阿里┃七夜4K",
+      "name": "🖥阿里┃七夜4K",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -322,7 +322,7 @@
 
     {
       "key": "YiSo",
-      "name": "🦊阿里┃4K易搜",
+      "name": "🖥阿里┃4K易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -333,7 +333,7 @@
 
     {
       "key": "Upyunso",
-      "name": "阿里 ┃ 云搜[4K]",
+      "name": "🖥阿里 ┃ 云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -344,7 +344,7 @@
 
     {
       "key": "腾讯",
-      "name": " 🐧腾讯┃官源",
+      "name": "🐧腾讯┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://xn--yet226clhctt4b.fun:66/js/tengxun.js"
@@ -352,7 +352,7 @@
     
     {
       "key": "优酷",
-      "name": " 🐧优酷┃官源",
+      "name": "🐧优酷┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/优酷.js"
@@ -360,7 +360,7 @@
 
     {
       "key": "芒果",
-      "name": "  🥭芒果┃官源",
+      "name": "🥭芒果┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
@@ -368,7 +368,7 @@
     
     {
       "key": "奇艺",
-      "name": "   ☁🌲奇艺┃官源",
+      "name": "🌲奇艺┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
@@ -376,7 +376,7 @@
   
    {
     "key":"drpy_js_酷云七七",
-    "name":"酷云丨七七",
+    "name":" ☁酷云丨七七",
     "type":3,
     "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
@@ -395,10 +395,17 @@
 
 
 "parses": [ 
+    
+   {"name": "并发解析","type": 3,"url": "Demo"},
 
-
+   {
+      "name": " 🎯超级解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
+    },
+   
   {
-      "name": "盖碗解析",
+      "name": " 🥣盖碗解析",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -427,7 +434,7 @@
     },
 
   {
-		"name": "官解",
+		"name": " 🎯官方解析",
 		"type": 1,
 		"url": "http://119.91.123.253:1234/Api/cs.php?url=",
 		"ext": {
@@ -436,7 +443,7 @@
 	},
 
   {
-		"name": "官解1",
+		"name": " 🎯官方解析1",
 		"type": 1,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext": {
@@ -445,7 +452,7 @@
 	},
 
   {
-		"name": "官解2",
+		"name": " 🎯官方解析2",
 		"type": 1,
 		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
 		"ext": {
@@ -454,25 +461,13 @@
   },
 
   {
-      "name": "超级解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
-
-  {
-      "name": "🌽玉米",
+      "name": "🌽玉米解析",
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url="
     },
 
     {
-      "name": "超级并发",
-      "type": 3,
-      "url": "Demo"
-    },
-
-    {
-      "name": "茶杯解析",
+      "name": " 🥃茶杯解析",
       "type": 1,
       "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url=",
       "ext": {
@@ -514,10 +509,8 @@
         ]
       }
     },
-
-  {"name": "解析聚合","type": 3,"url": "Demo"},
-    
-{"name": "web聚合","type": 3,"url": "Web"}
+   
+{"name": "聚合解析","type": 3,"url": "Web"}
 
 ],
 
