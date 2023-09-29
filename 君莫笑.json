@@ -22,7 +22,7 @@
 
    {
      "key": "xml_玩偶",
-     "name": "🧙玩偶┃T4",
+     "name": " 👽玩偶┃T4",
      "type": 4,
      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4",
      "searchable": 1,
@@ -32,7 +32,7 @@
 
     {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "🐭贱贱┃P2P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -94,7 +94,7 @@
 
     {
       "key": "影巢",
-      "name": "🦜影巢┃4k",
+      "name": " 🐦影巢┃4k",
       "type": 3,
       "api": "csp_Hdhive",
       "playerType":1,
@@ -105,9 +105,17 @@
       "jar": "./jar/app.jar"
     },
 
+   {
+    "key":"酷云七七",
+    "name":" ☁酷云┃七七",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/酷云77.js"
+   },
+
     {
       "key": "索尼",
-      "name": "🛸索尼┃4K",
+      "name": "🛸索尼┃TV",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -139,6 +147,74 @@
         "影视解说",
         "国产动漫"
       ]
+    },
+
+    {
+      "key": "彩虹",
+      "name": "🌈彩虹┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
+
+    {
+      "key": "腾讯",
+      "name": "🐧腾讯┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/腾讯.js"
+    },
+    
+    {
+      "key": "优酷",
+      "name": " 😎优酷┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/优酷.js"
+    },
+
+    {
+      "key": "芒果",
+      "name": " 🍋芒果┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/百忙无果.js"
+    },
+    
+    {
+      "key": "奇艺",
+      "name": "🌲奇艺┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/奇珍异兽.js"
+    },
+  
+   {
+      "key": "csp_SP360",
+      "name": "📺360┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/360影视.json"
+    },
+
+   {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
+
+   {
+      "key": "csp_XBPQ_6V",
+      "name": "🌙宝盒┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
     },
 
     {
@@ -250,31 +326,8 @@
     },
 
     {
-      "key": "彩虹",
-      "name": "🌈彩虹┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-
-    {
-      "key": "csp_XBPQ_6V",
-      "name": "🌙宝盒┃磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
-    },
-
-    {
       "key": "yc",
-      "name": "🦊4KHDR┃磁力",
+      "name": "🦊HDR┃4K",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -287,7 +340,7 @@
 
     {
       "key": "Zhaozy",
-      "name": "🖥阿里┃找资源4K",
+      "name": "🖥阿里┃找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -299,7 +352,7 @@
 
     {
       "key": "PanSearch",
-      "name": "🖥阿里┃飞龙4K",
+      "name": "🖥阿里┃飞龙",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -310,7 +363,7 @@
 
     {
       "key": "七夜",
-      "name": "🖥阿里┃七夜4K",
+      "name": "🖥阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -344,57 +397,15 @@
     },
 
     {
-      "key": "腾讯",
-      "name": "🐧腾讯┃官源",
+      "key": "csp_search_PanSearch",
+      "name": "🗂️┃盘Se┃搜索",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾讯.js"
-    },
-    
-    {
-      "key": "优酷",
-      "name": "🐧优酷┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
-    },
-
-    {
-      "key": "芒果",
-      "name": "🥭芒果┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
-    },
-    
-    {
-      "key": "奇艺",
-      "name": "🌲奇艺┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
-    },
-  
-   {
-    "key":"酷云七七",
-    "name":" ☁酷云┃七七",
-    "type":3,
-    "api":"./lib/drpy2.min.js",
-    "ext":"./js/酷云77.js"
-   },
-  
-   {
-      "key": "csp_SP360",
-      "name": "📺360┃官源",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/360影视.json"
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-
-   {"key":"sohu","name":" 🦊搜狐┃官源","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
 
     {
       "key": "xh",
