@@ -16,7 +16,8 @@
       "searchable":1,
       "filterable": 0,
       "changeable":0,
-      "jar":"./alibaba.jar"
+      "categories"0
+      "ext"./alibaba.jar"
     },
  
     {
