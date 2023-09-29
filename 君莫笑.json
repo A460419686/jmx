@@ -64,6 +64,7 @@
         "key": "影探",
         "name": " 🕵影探┃直连",
         "type": 3,
+        "playerType": "1",
         "api": "csp_YTVIP",
         "searchable": 1,
         "quickSearch": 1,
