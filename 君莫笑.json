@@ -347,7 +347,7 @@
       "name": "🐧腾讯┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/腾讯.js"
+      "ext": "./js/腾讯.js"
     },
     
     {
