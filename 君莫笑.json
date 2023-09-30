@@ -42,15 +42,6 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
 
-    {
-      "key": "荐片",
-      "name": "🔪荐片┃磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
-    },
-
      {
       "key": "厂长在线",
       "name": "👷厂长┃在线",
