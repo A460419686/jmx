@@ -104,7 +104,7 @@
       "api": "csp_Maolv",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": "./jar/ML.jar"
     },
 
