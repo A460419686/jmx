@@ -98,25 +98,14 @@
     },
 
     {
-      "key": "Mino",
-      "name": " 🌾Mino┃直连",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-    },
-
-    {
       "key": "毛驴",
-      "name": " 小驴┃直连",
+      "name": " 🐴小驴┃影视",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.maolvys.com/"
+      "ext": "./jar/ML.jar"
     },
 
    {
@@ -421,16 +410,6 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
 
-     {
-      "key": "77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
     {
       "key": "xh",
       "name": "2023.09.29更新",
@@ -471,7 +450,7 @@
   {"name": "🎯并发解析","type": 3,"url": "Demo"}, 
    
   {
-    "name": " 🎯777嗅探",
+    "name": " 🎯777解析",
     "type": 0,
     "url": "https://jx.777jiexi.com/player/?url="
   },
