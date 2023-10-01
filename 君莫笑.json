@@ -97,7 +97,7 @@
       "jar": "./jar/app.jar"
     },
 
-     {
+    {
       "key": "maolv_open",
       "name": "🐴毛驴┃影视",
       "type": 3,
@@ -108,6 +108,7 @@
       "filterable": 0,
       "changeable": 1,
       "jar": "./jar/ML.jar"
+     },
       
    {
     "key":"酷云七七",
