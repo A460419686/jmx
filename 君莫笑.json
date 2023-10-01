@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 {
 
-"warningText":"君莫笑：江湖路漫漫-有缘再会！",    
+"warningText":"君莫笑欢迎你前来观影！",    
 
 
 "sites":[
@@ -410,16 +410,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-
-    {
-      "key": "xh",
-      "name": "2023.09.29更新",
-      "type": 3,
-      "api": "csp_JMX",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     }
 
 
