@@ -97,17 +97,18 @@
       "jar": "./jar/app.jar"
     },
 
-    {
-      "key": "毛驴",
-      "name": " 🐴小驴┃影视",
+     {
+      "key": "maolv_open",
+      "name": "🐴毛驴┃影视",
       "type": 3,
+      "playerType": 1,
       "api": "csp_Maolv",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./jar/ML.jar"
-    },
-
+      "filterable": 0,
+      "changeable": 1,
+      "jar": "./jar/ML.jar"
+      
    {
     "key":"酷云七七",
     "name":" ☁酷云┃七七",
