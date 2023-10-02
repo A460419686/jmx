@@ -45,6 +45,19 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
 
+    {
+      "key": "影巢",
+      "name": " 🐦影巢┃4k",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "playerType":1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./https://jihulab.com/0004/0/-/raw/main/tk.php",
+      "jar": "./jar/app.jar"
+    },
+
      {
       "key": "厂长在线",
       "name": "👷厂长┃在线",
@@ -85,18 +98,15 @@
       "filterable": 1,
       "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
     },
-
     {
-      "key": "影巢",
-      "name": " 🐦影巢┃4k",
+      "key": "Mino",
+      "name": "👻Mino┃App",
       "type": 3,
-      "api": "csp_Hdhive",
-      "playerType":1,
+      "api": "csp_Appto",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./https://jihulab.com/0004/0/-/raw/main/tk.php",
-      "jar": "./jar/app.jar"
+      "changeable": 1,
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
 
     {
