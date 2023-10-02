@@ -461,12 +461,6 @@
 
 "parses": [
 
-  {
-    "name": "🎯轮询解析",
-    "type": 2,
-    "url": "Sequence"
-   },
-
   {"name": "🎯并发解析","type": 3,"url": "Demo"}, 
    
   {
