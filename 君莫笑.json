@@ -464,12 +464,6 @@
   {"name": "🎯并发解析","type": 3,"url": "Demo"},
 
   {
-      "name": " 🎯超级解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
-
-    {
     "name": "🎯秒开解析",
     "type": 1,
     "url": "http://119.91.123.253:1234/Api/cs.php?url="
@@ -552,6 +546,12 @@
       "name": "🎯小种嗅探",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
+    },
+
+    {
+      "name": " 🎯超级解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
    
   {
