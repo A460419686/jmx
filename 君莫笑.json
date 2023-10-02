@@ -471,7 +471,19 @@
 
 "parses": [
 
-  {"name": "🎯并发解析","type": 3,"url": "Demo"}, 
+  {"name": "🎯并发解析","type": 3,"url": "Demo"},
+
+  {
+      "name": " 🎯超级解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
+    }, 
+
+    {
+      "name": "🌽玉米解析",
+      "type": 1,
+      "url": "http://61.147.93.21:8090/index.php?url="
+    },
    
   {
     "name": " 🎯777解析",
@@ -515,12 +527,6 @@
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
-
-   {
-      "name": " 🎯超级解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
    
   {
 		"name": " 🎯官方解析",
@@ -548,12 +554,6 @@
 			"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "letv", "乐视", "pptv", "PPTV", "sohu", "xigua","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		} 
   },
-
-  {
-      "name": "🌽玉米解析",
-      "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url="
-    },
 
     {
       "name": " 🥃茶杯解析",
