@@ -87,49 +87,6 @@
       "ext": "./json/电影港.json",
       "jar": "./jar/xyq.jar"
     },
-    
-    {
-      "key": "drpy_追忆",
-      "name": "🤳追忆┃TV",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
-    },
-    
-    {
-      "key": "Mino",
-      "name": "👻Mino┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-    },
-
-    {
-      "key": "maolv_open",
-      "name": "🐴毛驴┃影视",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Maolv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "jar": "./jar/ML.jar"
-     },
-      
-   {
-    "key":"酷云七七",
-    "name":" ☁酷云┃七七",
-    "type":3,
-    "api":"./lib/drpy2.min.js",
-    "ext":"./js/酷云77.js"
-   },
 
     {
       "key": "索尼",
@@ -166,6 +123,38 @@
         "国产动漫"
       ]
     },
+    
+    {
+      "key": "drpy_追忆",
+      "name": "🤳追忆┃TV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
+    },
+
+    {
+      "key": "maolv_open",
+      "name": "🐴毛驴┃影视",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Maolv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar": "./jar/ML.jar"
+     },
+      
+   {
+    "key":"酷云七七",
+    "name":" ☁酷云┃七七",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/酷云77.js"
+   },
 
     {
       "key": "彩虹",
