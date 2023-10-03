@@ -128,11 +128,22 @@
       "key": "drpy_追忆",
       "name": "🤳追忆┃TV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_Appto",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
+      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+    },
+
+    {
+      "key": "Mino",
+      "name": "👻Mino┃4K",
+      "type": 3,
+      "api": "csp_Appto",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
 
     {
@@ -461,13 +472,13 @@
 
 "parses": [
 
+  {"name": "🎯并发解析","type": 3,"url": "Demo"},
+
   {
     "name": "🎯秒开解析",
     "type": 1,
     "url": "http://119.91.123.253:1234/Api/cs.php?url="
   },
-
-  {"name": "🎯并发解析","type": 3,"url": "Demo"},
 
     {
       "name": "🌽玉米解析",
@@ -580,50 +591,6 @@
 			"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "letv", "乐视", "pptv", "PPTV", "sohu", "xigua","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		} 
   },
-
-    {
-      "name": " 🥃茶杯解析",
-      "type": 1,
-      "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
 
     {
       "name": " 🎯JMX解析",
