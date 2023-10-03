@@ -128,11 +128,11 @@
       "key": "drpy_追忆",
       "name": "🤳追忆┃TV",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
     },
 
     {
