@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
+      "ext": "./js/追忆.js"
     },
 
     {
