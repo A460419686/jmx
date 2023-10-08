@@ -58,6 +58,30 @@
       "jar": "./jar/app.jar"
     },
 
+    {
+      "key": "yc",
+      "name": "HDHive",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "./jar/xry.jar"
+    },
+
+     {
+      "key": "csp_XBPQ_好戏",
+      "name": "👹好戏┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/好戏.json"
+    },
+
      {
       "key": "厂长在线",
       "name": "👷厂长┃在线",
