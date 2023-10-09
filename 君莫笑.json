@@ -364,19 +364,6 @@
     },
 
     {
-      "key": "yc",
-      "name": "🧲HDR┃4K",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-
-    {
       "key": "Zhaozy",
       "name": "🖥阿里┃找资源",
       "type": 3,
