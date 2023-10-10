@@ -208,11 +208,11 @@
       "key": "js_nangua",
       "name": "🎃南瓜┃2K",
       "type": 3,
-      "api": "./lib/apiv1049drpy2.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/nangua.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
       
    {
