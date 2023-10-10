@@ -58,14 +58,6 @@
       "jar": "./jar/app.jar"
     },
 
-    {"key": "xml_火狐",
-    "name": "🚄火狐🌎资源",
-    "type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    },
-
      {
       "key": "csp_XBPQ_好戏",
       "name": "👹好戏┃影视",
