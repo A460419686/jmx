@@ -82,14 +82,17 @@
       "filterable": 1,
       "ext": "./json/好戏.json"
     },
-
-     {
-      "key": "厂长在线",
-      "name": "👷厂长┃在线",
+    
+    {
+      "key": "Czsapp",
+      "name": "📔厂长┃直连",
       "type": 3,
+      "api": "csp_Czsapp",
       "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/在线.js"
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.cz01.pro/"
     },
 
      {
