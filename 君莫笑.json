@@ -94,16 +94,18 @@
       "changeable": 1,
       "ext": "https://www.cz01.pro/"
     },
-
-     {
-      "key": "csp_AppYsV2_影探",
-      "name": "🕵影探┃4K",
+    
+    {
+      "key": "探探",
+      "name": "🕵️影探┃App",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": "1",
+      "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+      "changeable": 1,
+      "timeout": 30,
+      "ext": "vip.lyyytv.cn"
     },
     
     {
