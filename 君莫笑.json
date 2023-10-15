@@ -201,16 +201,11 @@
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     
-    {
-      "key": "drpy_追忆",
-      "name": "🤳追忆┃TV",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/追忆.js"
-    },
+    {"key":"追忆影视",
+    "name":"🙏追忆丨影视",
+    "type":3,
+    "api":"csp_Appto",
+    "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
 
     {
       "key": "Mino",
