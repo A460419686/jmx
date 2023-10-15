@@ -200,12 +200,6 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
-    
-    {"key":"追忆影视",
-    "name":"🙏追忆丨影视",
-    "type":3,
-    "api":"csp_Appto",
-    "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
 
     {
       "key": "Mino",
