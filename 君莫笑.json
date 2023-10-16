@@ -72,19 +72,6 @@
     "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
 },
 
-    {
-      "key": "宝宝影视",
-      "name": "👦小宝丨影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://mp4.ghlyys.com:916/api.php/app/"
-    },
-
-
-
      {
       "key": "csp_XBPQ_好戏",
       "name": "👹好戏┃影视",
