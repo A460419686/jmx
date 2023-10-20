@@ -580,11 +580,9 @@
     "url": "http://cache.json.icu/1804857380.php?url="
   },
 
-  {
-    "name": "🎯影领解析",
-    "type": 1,
-    "url": "http://json.itcxo.cn/api/?key=yOf0ntpu00xdbjnFjo&url="
-  },
+  {"name":"🎯彩虹解析","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+
+  
 
   {
     "name": "🎯蓝鹰解析",
@@ -641,15 +639,6 @@
 		"url": "http://119.91.123.253:1234/Api/cs.php?url=",
 		"ext": {
 			"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},
-
-  {
-		"name": " 🎯官方解析1",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷",  "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	},
 
