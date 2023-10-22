@@ -222,14 +222,17 @@
       "changeable": 1,
       "jar": "./jar/ML.jar"
      },
-      
-   {
-    "key":"酷云七七",
-    "name":" ☁酷云┃七七",
-    "type":3,
-    "api":"./lib/drpy2.min.js",
-    "ext":"./js/酷云77.js"
-   },
+
+
+    {
+      "key": "77",
+      "name": "☁️酷云┃七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
     {
       "key": "腾讯",
