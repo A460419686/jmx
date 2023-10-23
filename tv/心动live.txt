@@ -1,4 +1,4 @@
-🏮欢迎使用心动直播,#genre#
+#genre#
 CCTV1,https://angtv.cn/test/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://angtv.cn/test/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://angtv.cn/test/bestv.php?id=cctv38m/8000000
