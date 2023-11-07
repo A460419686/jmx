@@ -22,17 +22,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 
-   {
-     "key": "xml_玩偶",
-     "name": " 👽玩偶┃T4",
-     "type": 4,
-     "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=4b3616764ca84c8d95a04cf205fe9343
-",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1
-    },
-
     {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
