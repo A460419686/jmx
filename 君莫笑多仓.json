@@ -10,8 +10,6 @@
 
 {"url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name":"君莫笑丨影音天堂"},
 
-{"url": "http://小盒酷玩.fun:66/禁止贩卖","name":"君莫笑丨小盒酷玩"},
-
 {"url": "https://pastebin.com/raw/5NHaxyGR","name":"君莫笑丨道长"},
 
 {"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2","name":"君莫笑丨欧哥"},
@@ -27,8 +25,12 @@
 {"url": "http://yydsys.top/duo","name":"君莫笑丨应用多多"},
 
 {"url": "http://xhww.fun:63/小米/DEMO.json
-","name":"君莫笑丨小米"}
+","name":"君莫笑丨小米"},
 
+{
+      "name": "君莫笑丨恒星影视",
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"
+    }
 
 
 
