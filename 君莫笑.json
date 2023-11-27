@@ -90,19 +90,6 @@
     },
 
     {
-      "key": "csp_rbzj",
-      "name": "🔥热播┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/热播之家.json",
-      "jar":"./jar/b.jar"
-    },
-
-
-    {
       "key": "csp_骚火",
       "name": "🔥骚火┃影视",
       "type": 3,
