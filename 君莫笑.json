@@ -81,10 +81,11 @@
     },
   
    {
-      "key": "csp_SP剧看看",
+      "key": "csp_剧看看",
       "name": "📺剧看看丨影视",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XBPQ",
+      "jar": "./jar/b.jar"
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
