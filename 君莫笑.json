@@ -115,7 +115,7 @@
 
 
         {
-      "key": "csp_热播",
+      "key": "csp_达达龟",
       "name": "🐢达达龟┃影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -125,6 +125,19 @@
       "ext": "./json/达达龟.json",
       "jar":"./jar/b.jar"
     },
+
+        {
+      "key": "csp_freeok",
+      "name": "👌Freeok┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/freeok.json",
+      "jar":"./jar/b.jar"
+    },
+
 
 
     {"key": "xml_火狐","name": "🚄火狐丨资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
