@@ -82,12 +82,10 @@
   
    {
       "key": "csp_XBPQ_剧看看",
-      "name": "剧看看",
+      "name": "👀剧看看丨影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "jar": "./jar/b.jar",
       "ext": "./json/剧看看.json"
     },
 
