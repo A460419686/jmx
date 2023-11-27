@@ -23,6 +23,19 @@
     },
 
     {
+      "key": "csp_玩偶表哥",
+      "name": "玩偶┃表哥",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/玩偶哥哥.json",
+      "jar":"./jar/HeChengChaXiu.jar"
+    },
+
+
+    {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
       "type": 3,
@@ -87,6 +100,18 @@
       "api": "csp_XBPQ",
       "ext": "./json/爱看.json",
       "jar": "./jar/b.jar"
+    },
+
+        {
+      "key": "csp_XBPQ_6V",
+      "name": "🔥骚火┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/骚火.json",
+      "jar":"./jar/b.jar"
     },
 
     {"key": "xml_火狐","name": "🚄火狐丨资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
