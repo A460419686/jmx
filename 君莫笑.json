@@ -96,9 +96,9 @@
       "key": "好戏",
       "name": "👹好戏┃影视",
       "type": 3,
-      "api": "csp_XBPQ"
+      "api": "csp_XBPQ",
       "ext": "./json/好戏.json",
-      "jar":"./jar/b.jar"
+      "jar": "./jar/b.jar"
     },
     
     {
