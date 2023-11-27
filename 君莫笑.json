@@ -174,13 +174,13 @@
 
     {
       "key": "csp_XBPQ_6V",
-      "name": "🌙新视觉┃影视",
+      "name": "🇨🇳007┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/新视觉.json",
+      "ext": "./json/007影视.json",
       "jar":"./jar/b.jar"
     },
 
