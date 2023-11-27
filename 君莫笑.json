@@ -81,7 +81,7 @@
     },
   
    {
-      "key": "csp_骚火",
+      "key": "csp_爱看",
       "name": "👀爱看丨影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -180,7 +180,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
+      "ext": "./json/新视觉.json",
+      "jar":"./jar/b.jar"
     },
 
     {
