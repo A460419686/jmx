@@ -122,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/热播.json",
+      "ext": "./json/热播之家.json",
       "jar":"./jar/b.jar"
     },
 
