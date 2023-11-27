@@ -85,7 +85,7 @@
       "name": "速播丨影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/速播.json",
+      "ext": "./json/速映.json",
       "jar": "./jar/b.jar"
     },
 
