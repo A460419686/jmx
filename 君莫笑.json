@@ -196,15 +196,15 @@
     },
 
     {
-      "key": "彩虹",
-      "name": "🌈彩虹┃4K",
+      "key": "北川",
+      "name": "🌈北川┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/天龙.json",
+      "ext": "./json/北川.json",
       "jar": "./jar/b.jar"
     },
 
