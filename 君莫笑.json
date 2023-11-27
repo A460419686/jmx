@@ -432,15 +432,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-
-    {
-      "key": "csp_两个bt",
-      "name": "两个bt",
-      "type": 3,
-      "api": "./lib/drpy2.min.js"
-      "ext": "./js/两个bt.js"
-  }
+    }
 
 
 
