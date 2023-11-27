@@ -435,12 +435,9 @@
     },
 
     {
-      "key": "csp_Free",
+      "key": "csp_两个bt",
       "name": "两个bt",
-      "type": 3,,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "type": 3,
       "api": "./lib/drpy2.min.js"
       "ext": "./js/两个bt.js"
   }
