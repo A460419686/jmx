@@ -435,16 +435,15 @@
     },
 
     {
-      "key": "Czsapp",
-      "name": "厂长直连",
+      "key": "csp_Free",
+      "name": "两个bt",
       "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/厂长.json"
-    }
+      "filterable": 1,
+      "ext": "./js/两个bt.js"
+  }
 
 
 
