@@ -102,14 +102,14 @@
     },
 
     {
-      "key": "csp_蘑菇",
-      "name": "🍄蘑菇┃影视",
+      "key": "csp_子子",
+      "name": "🫶子子┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蘑菇之家.json",
+      "ext": "./json/子子.json",
       "jar": "./jar/b.jar"
     },
 
