@@ -434,10 +434,9 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 
-
     {
       "key": "Czsapp",
-      "name": "👷厂长┃直连",
+      "name": "厂长直连",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
