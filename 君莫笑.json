@@ -96,8 +96,8 @@
       "key": "好戏",
       "name": "👹好戏┃影视",
       "type": 3,
-      "api": "csp_AppYsV2"
-      "ext": "https://jihulab.com/a460419686/jmx/-/raw/main/json/好戏.json"
+      "api": "csp_XBPQ"
+      "ext": "./json/好戏.json",
       "jar":"./jar/b.jar"
     },
     
