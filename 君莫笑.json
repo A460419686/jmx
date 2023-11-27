@@ -23,19 +23,6 @@
     },
 
     {
-      "key": "csp_厂长",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/厂长.json",
-      "jar":"./jar/b.jar"
-    },
-
-
-    {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
       "type": 3,
@@ -103,7 +90,7 @@
     },
 
         {
-      "key": "csp_XBPQ_6V",
+      "key": "csp_骚火",
       "name": "🔥骚火┃影视",
       "type": 3,
       "api": "csp_XBPQ",
