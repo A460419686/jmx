@@ -163,12 +163,12 @@
       "name": "🕵️影探┃App",
       "type": 3,
       "playerType": "1",
-      "api": "csp_YTVIP",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "ext": "vip.lyyytv.cn"
+      "ext": "./js/侦探.js"
     },
     
     {
