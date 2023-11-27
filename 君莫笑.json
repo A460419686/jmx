@@ -12,15 +12,6 @@
 {"key": "csp_KungFu404","name":" ❤阿里❤设置❤","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/alibaba.jar"},
 
     {
-      "key": "btbt",
-      "name": " 🍋bt┃bt",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/bt.js"
-    },
-
-
-    {
       "key": "csp_WoGG",
       "name": "👽玩偶┃哥哥",
       "type": 3,
