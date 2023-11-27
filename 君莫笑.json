@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蘑菇.json",
+      "ext": "./json/蘑菇之家.json",
       "jar": "./jar/b.jar"
     },
 
