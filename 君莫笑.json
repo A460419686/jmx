@@ -199,12 +199,13 @@
       "key": "彩虹",
       "name": "🌈彩虹┃4K",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XBPQ",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+      "ext": "./json/天龙.json",
+      "jar": "./jar/b.jar"
     },
 
     
