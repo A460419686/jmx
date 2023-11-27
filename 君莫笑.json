@@ -82,10 +82,10 @@
   
    {
       "key": "csp_骚火",
-      "name": "速映丨影视",
+      "name": "👀爱看丨影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/速映.json",
+      "ext": "./json/爱看.json",
       "jar": "./jar/b.jar"
     },
 
