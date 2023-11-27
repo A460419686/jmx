@@ -24,7 +24,7 @@ return headers
 
 var rule = {
     title:'酷云77',
-    host:'https://api.tyun77.cn',
+    host:'https://api.kyun77.cn',
     homeUrl:'/api.php/provide/homeBlock?type_id=0',
     searchUrl:'/api.php/provide/searchVideo?searchName=**',
     searchable:2,
