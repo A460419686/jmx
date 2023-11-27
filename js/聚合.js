@@ -43,19 +43,19 @@ try {
     for(var key in map){
       	if('kuaikan'==key){
 				arr.push({
-                flag: '小盒酷玩-快看在线',
+                flag: '君莫笑-快看在线',
                 url: map[key],
 				sort:1
             })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '小盒酷玩-暴风在线',
+                flag: '君莫笑-暴风在线',
                 url: map[key],
 				sort:2
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '小盒酷玩-1080在线',
+                flag: '君莫笑-1080在线',
                 url: map[key],
 				sort:3
             })}
