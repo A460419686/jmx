@@ -81,11 +81,11 @@
     },
   
    {
-      "key": "csp_剧看看",
-      "name": "剧看看丨影视",
+      "key": "csp_骚火",
+      "name": "骚火丨影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/剧看看.json",
+      "ext": "./json/骚火.json",
       "jar": "./jar/b.jar"
     },
 
