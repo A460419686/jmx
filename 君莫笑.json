@@ -81,11 +81,11 @@
     },
 
         {
-      "key": "腾讯",
-      "name": "酷玩丨2k",
+      "key": "酷",
+      "name": "酷影丨2k",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/酷玩.js"
+      "ext": "./js/酷影.js"
     },
 
   
