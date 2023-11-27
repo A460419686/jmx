@@ -432,17 +432,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-
-    {
-      "key": "csp_XBPQ_freeok",
-      "name": "👹freeok┃影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/freeok.json"
     }
 
 
