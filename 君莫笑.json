@@ -116,13 +116,13 @@
 
         {
       "key": "csp_热播",
-      "name": "🏡热播┃之家",
+      "name": "🐢达达龟┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/热播之家.json",
+      "ext": "./json/达达龟.json",
       "jar":"./jar/b.jar"
     },
 
