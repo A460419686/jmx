@@ -112,18 +112,15 @@
       "ext": "./json/freeok.json",
       "jar":"./jar/b.jar"
     },
-
-
+    
     {
-      "key": "csp_348",
-      "name": "🔥348┃影视",
+      "key": "csp_Bttoo",
+      "name": "🤳BT┃直连",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/348.json",
-      "jar":"./jar/b.jar"
+      "changeable": 1
     },
 
 
