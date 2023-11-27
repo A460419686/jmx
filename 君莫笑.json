@@ -89,6 +89,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/360影视.json"
+      "jar": "https://jihulab.com/a460419686/jmx/-/blob/3d8961cc8c43054e847bd11d3da09a4dae8a14cf/jar/b.jar"
     },
 
     {"key": "xml_火狐","name": "🚄火狐丨资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
