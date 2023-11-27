@@ -102,7 +102,7 @@
     },
 
     {
-      "key": "csp_热播",
+      "key": "csp_蘑菇",
       "name": "🍄蘑菇┃影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -110,7 +110,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/蘑菇.json",
-      "jar":"./jar/b.jar"
+      "jar": "./jar/b.jar"
     },
 
 
