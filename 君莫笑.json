@@ -79,6 +79,15 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
+
+        {
+      "key": "腾讯",
+      "name": "🈴聚丨合",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/聚合.js"
+    },
+
   
    {
       "key": "csp_爱看",
