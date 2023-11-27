@@ -100,33 +100,8 @@
       "ext": "./json/骚火.json",
       "jar":"./jar/b.jar"
     },
-
+    
     {
-      "key": "csp_子子",
-      "name": "🫶子子┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/子子.json",
-      "jar": "./jar/b.jar"
-    },
-
-
-        {
-      "key": "csp_达达龟",
-      "name": "🐢达达龟┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/达达龟.json",
-      "jar":"./jar/b.jar"
-    },
-
-        {
       "key": "csp_freeok",
       "name": "👌Freeok┃影视",
       "type": 3,
