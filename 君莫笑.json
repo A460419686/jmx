@@ -434,16 +434,19 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 
-   {
-      "key": "厂长资源",
-      "name": "厂长丨影视",
+
+    {
+      "key": "Czsapp",
+      "name": "👷厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "./json/厂长.json"
-    }
+    },
+
 
 
     
