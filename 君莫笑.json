@@ -84,7 +84,7 @@
       "key": "csp_两个bt",
       "name": "☁️两个bt丨影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "./lib/drpy2.min.js",
       "jar": "./jar/b.jar",
       "ext": "./js/两个bt.js"
     },
