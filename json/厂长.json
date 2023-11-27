@@ -30,11 +30,11 @@
     
     "搜索模式":"1",
     
-    "搜索url":"https://search.ymck.me/index.php?q={wd}",
+    "搜索url":"https://www.czzy88.com/index.php?q={wd}",
     
     "搜索数组":"<b>&&</b>[包含:厂长资源]",
     
-    "搜索副标题": "小苹果影视盒子",
+    "搜索副标题": "君莫笑",
     
     "搜索标题":"class='movie_name'>&&</a>",
     
@@ -44,7 +44,7 @@
     
     "线路数组":"<div class=\"mi_paly_box\">&&</div>",
     
-    "线路标题":"<span>&&</span>[替换:在线观看>>LiteApple]",
+    "线路标题":"《君莫笑》接口<span>&&</span>[替换:在线观看>>LiteApple]",
     
     "播放数组":"<div class=\"paly_list_btn\">&&</div>",
     
@@ -54,7 +54,7 @@
     
     "播放链接":"href=\"&&\"",
     
-    "分类url":"https://czzy.fun/{cateId}/{class}/{area}/page/{catePg};;m0",
+    "分类url":"https://www.czzy88.com/{cateId}/{class}/{area}/page/{catePg};;m0",
     
     "分类":"电影&国产剧&电视剧&动画&纪录片",
     
@@ -96,13 +96,10 @@
     {"n":"动画","v":"movie_bt_tags/dhh"},
     {"n":"历史","v":"movie_bt_tags/lishi"},
     {"n":"古装","v":"movie_bt_tags/guzhuang"},
-    {"n":"同性","v":"movie_bt_tags/tongxing"},
     {"n":"喜剧","v":"movie_bt_tags/xiju"},
     {"n":"奇幻","v":"movie_bt_tags/qihuan"},
-    {"n":"家庭","v":"movie_bt_tags/jiating"},
     {"n":"恐怖","v":"movie_bt_tags/kubu"},
     {"n":"悬疑","v":"movie_bt_tags/xuanyi"},
-    {"n":"情色","v":"movie_bt_tags/qingse"},
     {"n":"惊悚","v":"movie_bt_tags/kingsong"},
     {"n":"战争","v":"movie_bt_tags/zhanzhen"},
     {"n":"歌舞","v":"movie_bt_tags/gw"},
