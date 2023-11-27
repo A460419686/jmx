@@ -81,12 +81,12 @@
     },
   
    {
-      "key": "csp_两个bt",
-      "name": "☁️两个bt丨影视",
+      "key": "csp_剧看看",
+      "name": "剧看看丨影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/剧看看.json"
-      "jar": "./jar/b.jar",
+      "ext": "./json/剧看看.json",
+      "jar": "./jar/b.jar"
     },
 
     {"key": "xml_火狐","name": "🚄火狐丨资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
