@@ -89,6 +89,42 @@
     },
 
     {
+      "key": "csp_蘑菇",
+      "name": "🍄蘑菇┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/蘑菇影视.json",
+      "jar":"./jar/b.jar"
+    },
+
+    {
+      "key": "csp_TVB",
+      "name": "☁️TVB┃云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/TVB云播.json",
+      "jar":"./jar/b.jar"
+    },
+
+    {
+      "key": "csp_蚂蚁",
+      "name": "🐜麻衣┃呀呼",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/蚂蚁影视.json",
+      "jar":"./jar/b.jar"
+    },
+
+    {
       "key": "csp_热播",
       "name": "🇨🇳热播┃之家",
       "type": 3,
