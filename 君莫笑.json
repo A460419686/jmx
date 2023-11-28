@@ -162,7 +162,6 @@
       "key": "探探",
       "name": "🕵️影探┃App",
       "type": 3,
-      "playerType": "1",
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
