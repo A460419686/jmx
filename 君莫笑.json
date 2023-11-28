@@ -89,8 +89,6 @@
       "ext": "./js/玉米.js"
     },
     
-
-
    {
       "key": "csp_爱看",
       "name": "👀爱看丨影视",
@@ -178,6 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "ext": "./jar/侦探.jar"
     },
     
     {
