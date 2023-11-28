@@ -2,7 +2,7 @@
   "作者": "君莫笑",
   "站名": "麻衣呀呼",
   "主页url": "http://www.huanyuxing.com",
-  "分类": "电影$id-a#剧集$id-b#动漫$id-d#综艺$id-c",
+  "分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c",
   "分类值": "a&b&c&d",
   "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   "副标题": "module-item-note\">&&</div>",
@@ -12,7 +12,7 @@
   "主演": "主演：&&</div>",
   "简介": "剧情：<p>&&</p>",
   "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "《君莫笑》+<span>&&</small>",
+  "线路标题": "《君莫笑》接口+<span>&&</small>",
   "筛选": {
     "id-a": [
       {
