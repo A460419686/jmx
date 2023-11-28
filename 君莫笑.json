@@ -274,18 +274,6 @@
     },
 
     {
-      "key": "Mino",
-      "name": "🍙Mino┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext":"FbjPcVZY48PN/RIZ5UWFrsgzZIYQQdkQD24ZqLG4x0BQRMqZ/naRxFvD666/P3P8J2mRx31u1X0yQ2NzCIU5bRIdELvakECNazgw0X9H6+ZFTIfiMylyHhvBHith293n7STfbcZ8C64GrEdJqH3zUmNTOOnt6FEmHO0kTFcwaBan89EA//xRM60OT6pYakohVQJ3uigBTQfPqFUGyQJJzPtgnfTJuHQiKmAs4IwcDjYwspyz2wOXNNmaqia1oMOKX6r0XzgEb7SlVykexudpW2zb7ve09d2jmPF2xZl2PlMfEPAH9EDCqqyCLxXre0VNZEplXXYc+QeilNUqv5qH3DqtuBKPPo9z3+PpsTOsrSmHw/wlqw+/n2ki81jLvasTuvjl0tVJu6KCkwhN2R3DbYO4fnpxWCfM9sIGrf+IOqx07OTSefZe9/5Np1H81qjUdoF2Wby2kEDH2h/4aFVcNcJMIVcuPKhdSMTphInw/uB0WcnET0sCVb9An/ImsBQuhqPEMXtVG8vHEuFreiAnDhoKux5QqTT6YrGDR/BAieiWD2qQBSgjTGNmlObHbx0V7jYAw8utwFzIP0rYBx4mtl073dGnuxvd/r690i5VKUZSh6YHkZ5KoOhQlL/Pbg7GCZnCObGt5WP0EbdrIiEERjY2bbkjuqS+qROKTxOYyvXA1qB8UsRIrHs3PpUkkmFIbXT7xv2S7qrebs48YcM51Mb//7P6Z6YYlCgNGCg3axvMntLsrEbJSyH478c6FYRL5DSitjyYxCAN1rywT2zFgBXFmoO5PkXFCdUiXo8xsvzfZJ/N7s7vB81HFNzyNnpEmrg7U99broK2BvFgLg=="
-  },
-
-
-    {
       "key": "maolv_open",
       "name": "🐴毛驴┃影视",
       "type": 3,
@@ -309,6 +297,101 @@
       "changeable": 1
     },
 
+
+{
+      "key": "红牛资源",
+      "name": "🌍红牛┃资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]
+    },
+
+    {
+      "key": "量子资源",
+      "name": "🌍量子┃资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "极速资源",
+      "name": "🌍极速┃资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日剧",
+        "马泰剧",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
     {
       "key": "csp_XYQHiker_‍dyx",
       "name": " 🧲电影┃4k",
