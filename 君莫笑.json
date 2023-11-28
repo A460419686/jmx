@@ -201,13 +201,14 @@
     {
       "key": "csp_七新",
       "name": "七新丨影视",
+      "type":3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext":"./json/七新影视.json",
       "jar":"./jar/b.jar"
-      },
+     },
 
     {
       "key": "csp_007",
