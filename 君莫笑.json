@@ -209,16 +209,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/侦探.js"
     },
-    
-    {
-      "key": "电影港",
-      "name": " 🚢电影┃港湾",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": "1",
-      "ext": "./json/电影港.json",
-      "jar": "./jar/xyq.jar"
-    },
 
     {
       "key": "csp_七新",
@@ -474,15 +464,15 @@
       ]
     },
     {
-      "key": "csp_XYQHiker_‍dyx",
-      "name": " 🧲电影┃4k",
+      "key": "csp_电影港",
+      "name": " 🧲电影港┃磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "./json/电影港.json",
+      "jar": "./jar/xyq.jar"
     },
 
     {
@@ -505,7 +495,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+      "jar": "./jar/xyq.jar"
     },
 
     {
