@@ -188,11 +188,11 @@
 
     {
       "key": "电影港",
-      "name": "🐜蚂蚁┃港湾",
+      "name": "JoJo┃影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": "1",
-      "ext": "./json/蚂蚁4k.json",
+      "ext": "./json/JOJO.json",
       "jar": "./jar/xyq.jar"
     },
 
