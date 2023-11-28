@@ -80,6 +80,21 @@
       "ext": "./js/奇珍异兽.js"
     },
 
+
+    {
+      "key": "探探",
+      "name": "🌽玉米┃切片",
+      "type": 3,
+      "playerType": "1",
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./js/玉米.js"
+    },
+    
+
+
    {
       "key": "csp_爱看",
       "name": "👀爱看丨影视",
@@ -167,7 +182,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "timeout": 30,
       "ext": "./js/侦探.js"
     },
     
