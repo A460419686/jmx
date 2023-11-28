@@ -98,7 +98,7 @@
     //线路截取数组
     "tab_arr_rule": "#dede_content",
     //线路标题，截取前缀&&截取后缀
-    "tab_title": "《君莫笑》接口strong&&Text",
+    "tab_title": "《君莫笑》接口+<strong&&Text>",
     
     //列表数组截取，必须
     "list_arr_rule": "#dede_content",
