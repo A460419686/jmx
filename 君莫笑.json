@@ -100,7 +100,6 @@
       "jar":"./jar/b.jar"
     },
 
-
     {
       "key": "csp_骚火",
       "name": "🔥骚火┃影视",
@@ -183,19 +182,6 @@
       "playerType": "1",
       "ext": "./json/电影港.json",
       "jar": "./jar/xyq.jar"
-    },
-
-
-    {
-      "key": "csp_98影视",
-      "name": "🍺酒吧┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/98影视.json",
-      "jar": "./jar/b.jar"
     },
 
     {
