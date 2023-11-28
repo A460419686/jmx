@@ -581,19 +581,6 @@
       "jar": "./jar/83.jar"
     },
 
-        {
-      "key": "csp_磁力熊",
-      "name": "🧲熊┃磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/磁力熊.json",
-      "jar": "./jar/xyq.jar"
-    },
-
-
     {
       "key": "Zhaozy",
       "name": "🖥阿里┃找资源",
