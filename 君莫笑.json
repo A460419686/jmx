@@ -187,14 +187,27 @@
 
 
     {
-      "key": "真不卡",
-      "name": "1080┃影视",
+      "key": "csp_98影视",
+      "name": "🍺酒吧┃影视",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": "1",
-      "ext": "./json/1080蓝光影视.json",
-      "jar": "./jar/xyq.jar"
+      "api": "csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "./json/98影视.json",
+      "jar": "./jar/b.jar"
     },
+
+    {
+      "key": "csp_七新",
+      "name": "七新丨影视",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickserch": 1,
+      "filterable": 1,
+      "ext":"./json/七新影视.json",
+      "jar":"./jar/b.jar",
+
 
     {
       "key": "csp_007",
