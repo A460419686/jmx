@@ -492,7 +492,9 @@
 
 "parses": [
 
-  {"name": "🎯并发解析","type": 3,"url": "Demo"},
+  {"name": "🎯并发解析",
+  "type": 3,
+  "url": "Demo"},
 
   {
     "name": "🎯秒开解析",
@@ -556,9 +558,9 @@
     "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
   },
 
-  {"name":"🎯彩虹解析","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-
-  
+  {"name":"🎯彩虹解析",
+  "type":1,
+  "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 
   {
     "name": "🎯蓝鹰解析",
@@ -614,7 +616,7 @@
 		"type": 1,
 		"url": "http://119.91.123.253:1234/Api/cs.php?url=",
 		"ext": {
-			"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	},
 
@@ -623,7 +625,7 @@
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "type": 0,
       "ext": {
-        "flag": [
+       "flag": [
           "qiyi",
           "imgo",
           "爱奇艺",
