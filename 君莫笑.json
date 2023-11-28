@@ -493,7 +493,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+      "jar": "./jar/xyq.jar"
     },
 
     {
@@ -517,7 +517,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+      "jar": "./jar/xyq.jar"
     },
 
     {
@@ -541,7 +541,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/BT%e5%a4%a9%e5%a0%82.json",
+      "ext": "./json/BT天堂.json",
       "jar": "./jar/xyq.jar"
     },
 
