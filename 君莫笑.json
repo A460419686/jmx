@@ -166,11 +166,8 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
+      "changeable": 1
     },
-    
-
     
     {
       "key": "电影港",
