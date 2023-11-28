@@ -187,12 +187,12 @@
 
 
     {
-      "key": "电影港",
-      "name": "JoJo┃影视",
+      "key": "真不卡",
+      "name": "真不卡┃影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": "1",
-      "ext": "./json/JOJO.json",
+      "ext": "./json/电影盒子.json",
       "jar": "./jar/xyq.jar"
     },
 
