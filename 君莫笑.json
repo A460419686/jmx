@@ -185,6 +185,19 @@
       "jar": "./jar/xyq.jar"
     },
 
+
+    {
+      "key": "电影港",
+      "name": "🐜蚂蚁┃港湾",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": "1",
+      "ext": "./json/蚂蚁4k.json",
+      "jar": "./jar/xyq.jar"
+    },
+
+
+
     {
       "key": "csp_007",
       "name": "🇨🇳007┃影视",
