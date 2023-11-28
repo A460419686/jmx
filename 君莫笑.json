@@ -79,20 +79,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
-
-
-    {
-      "key": "csp_热播之家",
-      "name": "👌热播┃之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/rebozj.json",
-      "jar":"./jar/b.jar"
-    },
-
     
    {
       "key": "csp_爱看",
@@ -675,7 +661,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"https://jihulab.com/a460419686/jmx/-/blob/main/jar/uyv0t678c488189af47bb91dc108484d17431.jar?ref_type=heads",
+"spider":"https://jihulab.com/a460419686/jmx/-/blob/main/jar/uyv0t678c488189af47bb91dc108484d17431.jar",
 
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
