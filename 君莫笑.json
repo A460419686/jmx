@@ -83,11 +83,11 @@
     "name": "🐜蚂蚁丨影视",
     "type":3,
     "api":"csp_XYQHiker",
-    "playerType":2,
+    "playerType":1,
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./json/蚂蚁4k.json"
+    "ext": "./json/蚂蚁4k.json"
     ｝,
     
    {
