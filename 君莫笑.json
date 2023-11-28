@@ -78,6 +78,17 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
+
+
+   {
+      "key": "csp_爱看",
+      "name": "🐜蚂蚁丨影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "./json/蚂蚁4k.json",
+      "jar": "./jar/b.jar"
+    },
+
     
    {
       "key": "csp_爱看",
