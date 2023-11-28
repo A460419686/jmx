@@ -30,8 +30,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/jp.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/荐片.js"
     },
 
     {
