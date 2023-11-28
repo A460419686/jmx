@@ -529,8 +529,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+      "ext": "./json/4KHDR.json",
+      "jar": "./jar/xyq.jar"
     },
 
     {
