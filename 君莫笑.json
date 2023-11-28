@@ -31,7 +31,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "./js/drpy2.min.js",
-      "ext": "./js/荐片.js"
+      "ext": "./js/荐片影视.js"
     },
 
     {
