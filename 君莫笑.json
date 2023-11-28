@@ -87,6 +87,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,"ext":"./json/蚂蚁4k.json"
+    "jar":"./jar/b.jar"
     },
     
    {
