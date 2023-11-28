@@ -79,15 +79,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
-
-
-    {
-      "key": "探探玉米",
-      "name": "🌽玉米┃切片",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/玉米.js"
-    },
     
    {
       "key": "csp_爱看",
@@ -166,7 +157,7 @@
       "changeable": 1,
       "ext": "https://www.czzy88.com/"
     },
-    
+
     {
       "key": "探探",
       "name": "🕵️影探┃App",
@@ -176,8 +167,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./jar/侦探.jar"
+      "timeout": 30
     },
+    
+
     
     {
       "key": "电影港",
