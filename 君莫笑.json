@@ -192,11 +192,9 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": "1",
-      "ext": "./json/1080蓝光影院.json",
+      "ext": "./json/1080蓝光影视.json",
       "jar": "./jar/xyq.jar"
     },
-
-
 
     {
       "key": "csp_007",
