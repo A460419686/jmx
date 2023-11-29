@@ -124,18 +124,6 @@
     },
 
     {
-      "key": "csp_蚂蚁",
-      "name": "🐜麻衣┃呀呼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/蚂蚁影视.json",
-      "jar":"./jar/b.jar"
-    },
-
-    {
       "key": "csp_热播",
       "name": "🇨🇳热播┃之家",
       "type": 3,
