@@ -653,13 +653,13 @@
 
     {
       "key": "csp_小马",
-      "name": "小马┃影视",
+      "name": "008┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小马.json",
+      "ext": "./json/008.json",
       "jar":"./jar/b.jar"
     }
 
