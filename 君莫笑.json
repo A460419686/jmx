@@ -646,7 +646,20 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0
-    }
+    },
+
+    {
+      "key": "csp_蘑菇",
+      "name": "🍄小马┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小马.json",
+      "jar":"./jar/b.jar"
+    },
+
 
 
 
