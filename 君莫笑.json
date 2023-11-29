@@ -651,7 +651,7 @@
       "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"
     },
 
-       {
+    {
       "key": "TuGou",
       "name": "🖥阿里┃土狗搜",
       
@@ -660,8 +660,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvfan/token.txt+4k丨auto丨fhd"
-    ,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"}
+      "ext": "./tvfan/token.txt+4k丨auto丨fhd",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"
+    }
 
 
 
