@@ -637,30 +637,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "./tvbox/tok.txt+4k|auto|fhd"
-    },
-
-   {
-      "key": "纸条搜",
-      "name": "🖥阿里┃纸条搜",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/alitoken",
-      "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"
-    },
-
-    {
-      "key": "TuGou",
-      "name": "🖥阿里┃土狗搜",
-      "type": 3,
-      "api": "csp_TuGou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"
     }
 
 
