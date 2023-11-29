@@ -649,18 +649,6 @@
       "filterable": 1,
       "ext":".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd",
       "jar":"./jar/HeChengChaXiu.jar"
-    },
-
-    {
-      "key": "csp_小马",
-      "name": "008┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/008.json",
-      "jar":"./jar/b.jar"
     }
 
 
