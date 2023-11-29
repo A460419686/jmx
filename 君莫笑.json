@@ -23,8 +23,7 @@
   "searchable":1,
   "filterable": 0,
   "changeable":0,
-  "categories":"./jar/alibaba.jar",
-  "jar":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar"
+  "jar": "./jar/alibaba.jar"
   },
 
   {
