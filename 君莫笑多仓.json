@@ -24,15 +24,15 @@
 {"name":🎆"君莫笑丨云星日记"
  "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"},
 
-{"name":"🎆君莫笑丨小米影视"
+{"name":"🎆君莫笑丨小米影视",
  "url": "http://xhww.fun:63/小米/DEMO.json"
 },
 
  {"name": "🎆君莫笑丨恒星影视",
   "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"},
 
-  {"name": "🎆君莫笑丨天微VIP"
-  "url": "http://tvkj.top/DC/tvys/svip.json",},
+  {"name": "🎆君莫笑丨天微VIP",
+  "url": "http://tvkj.top/DC/tvys/svip.json"},
 
   {"name": "🎆君莫笑丨天微影视",
   "url": "http://tvkj.top/tw/api.json"},
