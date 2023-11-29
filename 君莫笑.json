@@ -131,18 +131,6 @@
     },
 
     {
-      "key": "csp_热播",
-      "name": "🇨🇳热播┃之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/rebozj.json",
-      "jar":"./jar/b.jar"
-    },
-
-    {
       "key": "csp_骚火",
       "name": "🔥骚火┃影视",
       "type": 3,
