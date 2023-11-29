@@ -584,7 +584,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+auto|4k|fhd丨$$$jmx$$$jmx"
+      "ext":"./json/PG推送.json"
      },
 
     {
@@ -595,7 +595,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"./tvbox/tok.txt+auko|4k|fhd"
+      "ext":"./json/PG推送.json"
     },
 
     {
@@ -607,7 +607,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext":"./tvbox/tok.txt+auto|4k|fhd"
+      "ext":"./json/PG推送.json"
     },
 
     {
@@ -618,7 +618,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tvbox/tok.txt+auto|4k|fhd"
+      "ext":"./json/PG推送.json"
     },
 
     {
@@ -630,7 +630,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "./tvbox/tok.txt+auto|4k|fhd"
+      "ext": "./json/PG推送.json"
     },
 
     {
@@ -641,7 +641,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+auto|4k|fhd"
+      "ext": "./json/PG推送.json"
+    },
+
+    {
+      "key": "小纸条",
+      "name": "🖥阿里┃纸条搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/PG推送.json"
     }
 
 
