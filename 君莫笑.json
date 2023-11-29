@@ -58,8 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tvbox/tok.txt+auto|4k|fhd",
-      "jar": "./jar/app.jar"
+      "ext": "./json/PG推送.json"
     },
 
     {
