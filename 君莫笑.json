@@ -78,6 +78,17 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
+
+    {
+      "key": "影探VIP",
+      "name": "🕵️影探┃VIP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+    },
     
    {
       "key": "csp_爱看",
