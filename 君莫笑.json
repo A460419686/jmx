@@ -46,7 +46,7 @@
       "changeable": 1,
       "playerType": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/jp.js"
+      "ext": "https://jihulab.com/a460419686/jmx/-/raw/main/js/jp.js"
     },
 
     {
