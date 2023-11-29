@@ -435,6 +435,7 @@
       "name": "🌍量子┃资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "playurl": "json:https://tvmvip.com/lz2.php?url=",
       "searchable": 1,
       "changeable": 1,
       "categories": [
