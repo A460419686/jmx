@@ -584,7 +584,7 @@
 
     {
       "key": "PanSearch",
-      "name": "🖥阿里┃飞龙搜",
+      "name": "🖥阿里┃PanSe搜",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
