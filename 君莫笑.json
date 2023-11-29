@@ -34,7 +34,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "./tvbox/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
+    "ext": "./tvbox/token.txt+auto|4k|fhd"
      },
 
     {
