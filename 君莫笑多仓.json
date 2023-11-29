@@ -1,50 +1,54 @@
 {"urls": [
 
-{"url": "https://jihulab.com/a460419686/jmx/-/raw/main/君莫笑.json","name":"🎆君莫笑丨单仓"},
+{ "name":"🎆君莫笑丨单仓",
+  "url": "https://jihulab.com/a460419686/jmx/-/raw/main/君莫笑.json"},
 
-{"url": "http://weixine.link:33/","name":🎆"君莫笑丨运输车"},
+{ "name":"🎆君莫笑丨运输车",
+  "url": "http://weixine.link:33/"},
 
-{"url": "http://饭太硬.top/tv","name":"🎆君莫笑丨饭太硬"},
+{ "name":"🎆君莫笑丨饭太硬",
+  "url": "http://饭太硬.top/tv"},
 
-{"url": "https://pastebin.com/raw/5NHaxyGR","name":"🎆君莫笑丨道长降魔"},
+{"name":"🎆君莫笑丨道长降魔",
+ "url": "https://pastebin.com/raw/5NHaxyGR"},
 
-{"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2","name":"🎆君莫笑丨欧哥"},
+{"name":"🎆君莫笑丨欧哥",
+ "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"},
 
-{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name":"🎆君莫笑丨肥猫"},
+{"name":"🎆君莫笑丨肥猫",   
+ "url": "http://我不是.肥猫.love:63/接口禁止贩卖"},
 
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json","name":"🎆君莫笑丨阿里采集"},
+{"name":"🎆君莫笑丨荷城茶秀",
+ "url": "http://rihou.vip:88/荷城茶秀"},
 
-{"url": "http://rihou.vip:88/荷城茶秀","name":"🎆君莫笑丨荷城茶秀"},
+{"name":🎆"君莫笑丨云星日记"
+ "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"},
 
-{"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name":🎆"君莫笑丨云星日记"},
+{"name":"🎆君莫笑丨小米影视"
+ "url": "http://xhww.fun:63/小米/DEMO.json"
+},
 
-{"url": "http://xhww.fun:63/小米/DEMO.json
-","name":"🎆君莫笑丨小米影视"},
+ {"name": "🎆君莫笑丨恒星影视",
+  "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"},
 
- {
-      "name": "🎆君莫笑丨恒星影视",
-      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"
-    },
+  {"name": "🎆君莫笑丨天微VIP"
+  "url": "http://tvkj.top/DC/tvys/svip.json",},
 
-    {
-      "name": "🎆君莫笑丨天微VIP"
-      "url": "http://tvkj.top/DC/tvys/svip.json",
-    },
+  {"name": "🎆君莫笑丨天微影视",
+  "url": "http://tvkj.top/tw/api.json"},
 
-  {
-      "name": "🎆君莫笑丨天微影视",
-      "url": "http://tvkj.top/tw/api.json"
-    },
+  {"name": "🎆君莫笑丨喵影视",
+   "url": "http://meowtv.cn/tv"},
 
-      {
-      "name": "🎆君莫笑丨喵影视",
-      "url": "http://meowtv.cn/tv"
-    },
+  {"name": "🎆君莫笑丨星辰影视",
+  "url": "http://8.210.232.168/xc.json"}
 
-    {
-      "name": "🎆君莫笑丨星辰影视",
-      "url": "http://8.210.232.168/xc.json"
-    }
+  {"name": "🎆君莫笑丨冉神接口",
+  "url": "https://download.kstore.space/download/5242/冉神.json"}
+
+
+
+
 
 
 
