@@ -648,8 +648,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"./tvbox/tok.txt+4k|auto|fhd",
-      "jar":"./jar/b.jar"
+      "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"
     }
+
+       {
+      "key": "TuGou",
+      "name": "🖥阿里┃土狗搜",
+      
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./tvfan/token.txt+4k丨auto丨fhd"
+    ,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"},
 
 
 
