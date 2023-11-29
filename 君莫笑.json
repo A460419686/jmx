@@ -643,9 +643,12 @@
       "key": "纸条搜",
       "name": "🖥阿里┃纸条搜",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
+      "api": "csp_Paper",
       "searchable": 1,
-      "changeable": 0
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "jar":"./jar/HeChengChaXiu.jar"
     },
 
     {
