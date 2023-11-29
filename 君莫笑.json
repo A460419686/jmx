@@ -34,6 +34,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "timeout": 30,
       "ext": "./json/PG推送.json$$$https://wogg.xyz/$$$null$$$1"
     },
 
