@@ -584,7 +584,7 @@
 
     {
       "key": "PanSearch",
-      "name": "🖥阿里┃飞龙",
+      "name": "🖥阿里┃飞龙搜",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -595,7 +595,7 @@
 
     {
       "key": "七夜",
-      "name": "🖥阿里┃七夜",
+      "name": "🖥阿里┃七夜搜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -629,37 +629,26 @@
     },
 
     {
-      "key": "csp_search_PanSearch",
-      "name": "🖥盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
-    },
-
-    {
-      "key": "UpYun",
-      "name": "🖥Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
-    },
-
-    {
       "key": "PanSou",
-      "name": "🖥盘搜┃搜索",
+      "name": "🖥阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+    },
+
+   {
+      "key": "纸条搜",
+      "name": "🖥阿里┃纸条搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0
     }
+
+
 
 
 
