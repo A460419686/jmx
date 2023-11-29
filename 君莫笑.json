@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
 
     {
@@ -43,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt",
+      "ext": "./tvbox/tok.txt",
       "jar": "./jar/app.jar"
     },
 
@@ -579,7 +579,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd丨$$$jmx$$$jmx"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd丨$$$jmx$$$jmx"
      },
 
     {
@@ -590,7 +590,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "ext":"./tvbox/tok.txt+4k|auto|fhd"
     },
 
     {
@@ -602,7 +602,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "ext":"./tvbox/tok.txt+4k|auto|fhd"
     },
 
     {
@@ -613,7 +613,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
 
     {
@@ -625,7 +625,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
 
     {
@@ -636,7 +636,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": ".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
 
    {
@@ -647,7 +647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":".https://jihulab.com/a460419686/jmx/-/raw/main/tvbox/tok.txt+4k|auto|fhd",
+      "ext":"./tvbox/tok.txt+4k|auto|fhd",
       "jar":"./jar/HeChengChaXiu.jar"
     }
 
