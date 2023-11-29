@@ -652,12 +652,12 @@
       "key": "csp_小马",
       "name": "小马┃影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/小马.json",
-      "jar":"./jar/b.jar"
+      "jar":"./jar/83.jar"
     }
 
 
