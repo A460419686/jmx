@@ -51,14 +51,14 @@
 
     {
       "key": "影巢",
-      "name": " 🐦影巢┃4k",
+      "name": " 🐦阿里┃影巢",
       "type": 3,
       "api": "csp_Hdhive",
       "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd",
+      "ext": "./tvbox/tok.txt+auto|4k|fhd",
       "jar": "./jar/app.jar"
     },
 
