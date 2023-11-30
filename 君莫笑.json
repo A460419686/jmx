@@ -34,7 +34,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "./tobox/tok.txt+auto丨4k"
+    "ext": "./tobox/tok.txt+auto|4k"
      },
 
     {
@@ -585,7 +585,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto|4k"
      },
 
     {
@@ -596,7 +596,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto丨4k"
     },
 
     {
@@ -608,7 +608,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto丨4k"
     },
 
     {
@@ -619,7 +619,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto丨4k"
       
     },
 
@@ -632,7 +632,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto丨4k"
     },
 
     {
@@ -643,7 +643,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto丨4k"
     },
 
     {
@@ -655,7 +655,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tvbox/tok.txt+auko丨4k"
+      "ext": "./tvbox/tok.txt+auto丨4k"
     }
 
 
