@@ -28,13 +28,13 @@
 
   {
     "key": "玩偶哥哥",
-    "name": "👽玩偶┃哥哥（PG）",
+    "name": "👽玩偶┃哥哥",
     "type": 3,
-    "api": "csp_Wogg",
+    "api": "csp_WoGG",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "./json/PG推送.json"
+    "ext": "./tobox/tok.txt+auto丨4k"
      },
 
     {
@@ -58,7 +58,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/PG推送.json$$$null$$$1"
+      "ext":"./tvbox/tok.txt+auko丨4k"
+      "jar":"./jar/app.jar"
+
     },
 
     {
@@ -114,7 +116,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/蘑菇影视.json",
-      "jar":"./jar/b.jar"
+      "jar":"./jar/83.jar"
     },
 
     {
@@ -161,7 +163,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar"
     },
 
     {
@@ -172,8 +173,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext":"null$$$1"
+      "changeable": 1
     },
 
      {
@@ -237,8 +237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://rzys.xyz",
-      "jar":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar"
+      "ext": "http://rzys.xyz"
     },
 
     {
@@ -264,8 +263,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
-      "jar":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
     },
 
     {
@@ -289,8 +287,7 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar"
+      "changeable": 1
     },
 
     {"key": "xml_火狐",
@@ -589,7 +586,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext":"./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
      },
 
     {
@@ -600,7 +597,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
     },
 
     {
@@ -612,7 +609,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext":"./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
     },
 
     {
@@ -623,7 +620,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
+      
     },
 
     {
@@ -635,7 +633,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
     },
 
     {
@@ -646,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
     },
 
     {
@@ -658,7 +656,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/PG推送.json"
+      "ext": "./tvbox/tok.txt+auko丨4k"
     }
 
 
@@ -876,7 +874,10 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"./jar/pg.nogo.jar",
+
+      
+    
+"spider":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar",
 
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
