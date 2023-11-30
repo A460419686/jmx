@@ -38,6 +38,19 @@
      },
 
     {
+    "key": "玩偶哥哥",
+    "name": "👽玩偶┃哥哥（饭）",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "ext": "./tvbox/tok.txt+auto丨4k丨qhd",
+    "jar":"./jar/uyv0t678c488189af47bb91dc108484d17431.jar"
+     },
+
+
+    {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
       "type": 3,
