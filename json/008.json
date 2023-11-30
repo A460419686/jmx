@@ -36,7 +36,7 @@
     
     "线路数组":"data-toggle=&&</li>",
     
-    "线路标题":"《君莫笑》+>&&</a>",
+    "线路标题":"君莫笑+>&&</a>",
     
     "播放数组":"stui-content__playlist clearfix sort-list\">&&</ul>",
     
@@ -44,7 +44,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://www.libvio.me/type/4/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
     
     "分类":"电影$1#剧集$2#动漫$3#综艺$4",
     
