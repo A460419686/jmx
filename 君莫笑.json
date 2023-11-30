@@ -60,6 +60,16 @@
       "filterable": 0,
       "ext": "./json/PG推送.json$$$null$$$1"
     },
+                          
+    {
+      "key": "团长影视",
+      "name": "🍡团长┃网盘（夸克）",
+      "type": 3,
+      "api": "csp_TZFile",
+      "ext": "./json/PG推送$$$null$$$1",
+      "quickSearch": 1,
+      "changeable": 0
+    },
 
     {
       "key": "腾讯",
