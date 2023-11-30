@@ -28,13 +28,14 @@
 
   {
     "key": "玩偶哥哥",
-    "name": "👽玩偶┃哥哥",
+    "name": "👽玩偶┃哥哥（PG）",
     "type": 3,
     "api": "csp_Wogg",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
     "ext": "./json/PG推送.json"
+     "outtime":30
      },
 
     {
