@@ -44,9 +44,9 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://www.moguys.xyz/vodtype/{cateId}-{area}-------{catePg}---{year}.html",
+    "分类url":"https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
     
-    "分类":"首页$#电视剧$2#电影$1#动漫$3#综艺$4",
+    "分类":"电视剧$1#电影$2#动漫$3#综艺$4",
     
     "筛选":{
     "1":[
