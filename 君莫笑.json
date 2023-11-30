@@ -673,9 +673,9 @@
 
     {
       "key": "趣盘搜",
-      "name": "🏍趣盘┃网盘",
+      "name": "🏍趣盘┃网盘（夸克）",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/funletu.js",
       "quickSearch": 1,
       "changeable": 0,
