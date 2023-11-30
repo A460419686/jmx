@@ -34,12 +34,11 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "./json/PG推送.json",
-     "timeout": 30
+    "ext": "./json/PG推送.json"
      },
 
     {
-    "key": "玩偶哥哥",
+    "key": "玩偶4kk",
     "name": "👽玩偶┃哥哥（饭）",
     "type": 3,
     "api": "csp_WoGG",
