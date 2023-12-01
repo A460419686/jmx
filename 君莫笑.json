@@ -107,6 +107,13 @@
     },
 
     {
+      "key":"csp_麻衣呀呼",
+      "name":"麻衣丨呀呼",
+      "api": "csp_XBPQ",
+      "ext": "./json/麻衣呀呼.json"
+    },
+
+    {
       "key": "csp_蘑菇",
       "name": "🍄蘑菇┃影视",
       "type": 3,
@@ -114,8 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蘑菇影视.json",
-      "jar":"./jar/b.jar"
+      "ext": "./json/蘑菇影视.json"
     },
 
     {
