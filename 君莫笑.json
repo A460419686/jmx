@@ -200,8 +200,8 @@
       "key": "探探",
       "name": "🕵️影探┃App",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/侦探.js"
+      "api": "csp_AppYsV2",
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
 
     {
@@ -875,7 +875,7 @@
 
       
     
-"spider": "./jar/uyv0t678c488189af47bb91dc108484d17431.jar",
+"spider": "./jar/jar/pandaQ231115.jar",
 
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
