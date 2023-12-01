@@ -107,14 +107,6 @@
     },
 
     {
-      "key":"csp_麻衣呀呼",
-      "name":"麻衣丨呀呼",
-      "type":3,
-      "api": "csp_XBPQ",
-      "ext": "./json/麻衣呀呼.json"
-    },
-
-    {
       "key": "csp_蘑菇",
       "name": "🍄蘑菇┃影视",
       "type": 3,
@@ -133,9 +125,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/TVB云播.json",
-      "jar":"./jar/b.jar"
-    },
+      "ext": "./json/TVB云播.json"
+    }
 
     {
       "key": "csp_骚火",
@@ -145,8 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/骚火.json",
-      "jar":"./jar/b.jar"
+      "ext": "./json/骚火.json"
     },
     
     {
@@ -157,8 +147,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/freeok.json",
-      "jar":"./jar/b.jar"
+      "ext": "./json/freeok.json"
     },
     
     {
