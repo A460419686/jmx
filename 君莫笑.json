@@ -276,6 +276,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
+      "ext":"ttps://www.maolvys.com/",
       "jar": "./jar/ML.jar"
      },
 
