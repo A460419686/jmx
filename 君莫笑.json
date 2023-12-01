@@ -102,7 +102,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "ext": "./json/爱看.json"
+      "ext": "./json/爱看.json",
+      "jar":"./jar/b.jar"
     },
 
     {
@@ -113,7 +114,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蘑菇影视.json"
+      "ext": "./json/蘑菇影视.json",
+      "jar":"./jar/b.jar"
     },
 
     {
@@ -124,7 +126,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/TVB云播.json"
+      "ext": "./json/TVB云播.json",
+      "jar":"./jar/b.jar"
     },
 
     {
@@ -135,7 +138,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/骚火.json"
+      "ext": "./json/骚火.json",
+      "jar":"./jar/b.jar"
     },
     
     {
@@ -146,7 +150,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/freeok.json"
+      "ext": "./json/freeok.json",
+      "jar":"./jar/b.jar"
     },
     
     {
@@ -178,7 +183,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./json/好戏.json"
+      "ext": "./json/好戏.json",
+      "jar":"./jar/b.jar"
     },
     
     {
@@ -209,7 +215,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./json/七新影视.json"
+      "ext":"./json/七新影视.json",
+      "jar":"./jar/b.jar"
      },
 
     {
@@ -220,7 +227,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/007影视.json"
+      "ext": "./json/007影视.json",
+      "jar":"./jar/b.jar"
     },
 
     {
@@ -243,11 +251,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/北川.json"
+      "ext": "./json/北川.json",
+      "jar":"./jar/b.jar"
     },
-
     
-
     {
       "key": "橘子",
       "name": "🍊橘子┃影视",
@@ -869,7 +876,7 @@
 
       
     
-"spider": "./jar/pandaQ231115.jar",
+"spider": "./jar/uyv0t678c488189af47bb91dc108484d17431.jar",
 
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
