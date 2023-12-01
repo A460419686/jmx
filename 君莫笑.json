@@ -34,7 +34,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "./tobox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
      },
 
     {
