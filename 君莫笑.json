@@ -109,6 +109,7 @@
     {
       "key":"csp_麻衣呀呼",
       "name":"麻衣丨呀呼",
+      "type":3,
       "api": "csp_XBPQ",
       "ext": "./json/麻衣呀呼.json"
     },
