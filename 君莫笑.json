@@ -151,7 +151,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/freeok.json",
-      "jar":"./jar/b.jar"
+      "jar": "./jar/b.jar"
     },
     
     {
