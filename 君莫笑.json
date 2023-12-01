@@ -271,13 +271,12 @@
       "name": "🐴毛驴┃影视",
       "type": 3,
       "playerType": 1,
-      "api": "csp_Maolv",
+      "api": "csp_MLYS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "ext":"ttps://www.maolvys.com/",
-      "jar": "./jar/ML.jar"
+      "ext":"ttps://www.maolvys.com/"
      },
 
 
