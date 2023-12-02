@@ -34,7 +34,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
      },
 
     {
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"//127.0.0.1:9978/file/tvbox/tok.txt+auko丨4k",
+      "ext":"//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto",
       "jar":"./jar/app.jar"
     },
 
@@ -586,7 +586,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+      "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
      },
 
     {
@@ -597,7 +597,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
     },
 
     {
@@ -609,7 +609,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
     },
 
     {
@@ -620,7 +620,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|aut"
     },
 
     {
@@ -632,7 +632,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+      "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
     },
 
     {
@@ -643,7 +643,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
     },
 
     {
@@ -655,7 +655,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+auto|4k"
+    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
     }
 
 
