@@ -49,18 +49,6 @@
       "ext":"//127.0.0.1:9978/file/tvbox/tok.txt+auko丨4k",
       "jar":"./jar/app.jar"
     },
-    
-    {
-      "key": "Czsapp",
-      "name": "👷厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
 
     {
       "key": "Zhaozy",
