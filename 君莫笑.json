@@ -575,7 +575,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./json/PG推送.json",
-      "jar":"./jar/ok.png"
+      "jar":"./jar/pg.jar"
      },
 
     {
@@ -645,7 +645,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./json/PG推送.json",
-       "jar":"./jar/ok.png"
+       "jar":"./jar/pg.jar"
     }
 
 
