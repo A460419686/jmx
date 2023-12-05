@@ -58,8 +58,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto",
-      "jar":"./jar/app.jar"
+      "ext":"./json/PG推送.json",
+      "jar":"./jar/PG.jar"
     },
 
     {
