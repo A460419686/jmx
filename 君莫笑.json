@@ -94,6 +94,17 @@
       "ext": "./js/奇珍异兽.js"
     },
 
+    {"key": "csp_XBPQ_6V",
+  "name": "😸君莫笑",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./json/6V.json",
+  "jar":"./jar/b.jar"
+  },
+
     {
       "key": "csp_蘑菇",
       "name": "🍄蘑菇┃影视",
