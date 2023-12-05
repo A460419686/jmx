@@ -59,7 +59,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"./json/PG推送.json",
-      "jar":"./jar/PG.jar"
+      "jar":"./jar/pg.jar"
     },
 
     {
