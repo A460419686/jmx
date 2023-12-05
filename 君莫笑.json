@@ -574,7 +574,8 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
+      "ext": "./json/PG推送.jsin"
+      "jar":"./jar/pg.jar"
      },
 
     {
@@ -643,7 +644,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-    "ext": "//127.0.0.1:9978/file/tvbox/tok.txt+4k|auto"
+      "ext": "./json/PG推送.json",
+       "jar":"./jar/pg.jar"
     }
 
 
