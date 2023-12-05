@@ -93,18 +93,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
-    
-   {
-      "key": "csp_爱看",
-      "name": "👀爱看丨影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./json/爱看.json",
-      "jar":"./jar/b.jar"
-    },
 
     {
       "key": "csp_蘑菇",
