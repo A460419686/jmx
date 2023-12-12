@@ -45,7 +45,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 1,
-      "api": "https:./lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "https://gitee.com/a460419686/jmx/raw/main/js/jp.js"
     },
 
