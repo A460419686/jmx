@@ -654,7 +654,7 @@
       "type": 3,
       "api": "csp_TZFile",
       "ext": "./json/PG推送.json",
-      "jar": "./jar/pg.jar"
+      "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 0
     }
