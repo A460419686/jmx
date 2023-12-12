@@ -653,7 +653,7 @@
       "name": "🖥夸克┃团长",
       "type": 3,
       "api": "csp_TZFile",
-      "ext": "./json/PG推送.json",
+      "ext": "./json/PG推送$$$null$$$1",
       "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 0
