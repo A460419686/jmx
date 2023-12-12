@@ -656,7 +656,8 @@
       "ext": "./json/PG推送.json",
       "quickSearch": 1,
       "changeable": 0,
-      "jar":"./jar/pg.jar"
+      "jar":"./jar/pg.jar",
+      "timeout": 60
     }
 
 
