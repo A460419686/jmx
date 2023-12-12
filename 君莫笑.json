@@ -93,6 +93,17 @@
       "ext": "./js/奇珍异兽.js"
     },
 
+{
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
+
     {
       "key": "csp_蘑菇",
       "name": "🍄蘑菇┃影视",
