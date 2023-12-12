@@ -45,8 +45,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 1,
-      "api": "https://jihulab.com/a460419686/jmx/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/a460419686/jmx/-/raw/main/js/jp.js"
+      "api": "https:./lib/drpy2.min.js",
+      "ext": "https://gitee.com/a460419686/jmx/raw/main/js/jp.js"
     },
 
     {
