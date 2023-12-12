@@ -646,6 +646,17 @@
       "filterable": 0,
       "ext": "./json/PG推送.json",
        "jar":"./jar/pg.jar"
+    },
+	
+   {
+      "key": "团长影视",
+      "name": "夸克┃团长",
+      "type": 3,
+      "api": "csp_TZFile",
+      "ext": "./json/PG推送.json",
+      "jar": "./jar/pg.jar"
+      "quickSearch": 1,
+      "changeable": 0
     }
 
 
